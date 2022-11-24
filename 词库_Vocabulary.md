@@ -2,6 +2,10 @@ Let's have fun & build vocabulary for our language. Suggestions are put under bu
 
 ---
 
+If you want to search for a certain keyword, you may use hashtag. Eg: #color 
+
+---
+
 数字 Number
 
 算数 Calculate/Compute
@@ -157,10 +161,11 @@ Equal = Same
 
 ---
 
-颜色 Color (noun)
+颜色 #Color (noun)
 
 - `reyebui`(Red + Yellow + Blue)
-- 
+  - `reyebud` = Colorful (adjective)
+  - 
 
 🔴 Red (adjective)
 
