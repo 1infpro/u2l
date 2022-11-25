@@ -26,76 +26,76 @@ Pronunciation is unique for each spelling to avoid ambiguities which exist in En
 
 Basic words & meaning. Please use word with simpler pronunciation for commonly used word: [常用词 Common_word](常用词_Common_word.md)
 
-|         | A              | E   | I               | O                   | U      | U' <br/>"淤"青 |
-|:-------:|:--------------:|:---:|:---------------:|:-------------------:|:------:| ------------ |
-| B       | BA             | BE  | BI              | BO                  | BU     |              |
-| BR      | BRA            | BRE | BRI             | BRO                 | BRU    |              |
-| C       | CA             | CE  | CI              | CO                  | CU     |              |
-| CH      | CHA            | CHE | CHI             | CHO                 | CHU    |              |
-| CR      | CRA            | CRE | CRI             | CO                  | CRU    |              |
-| D       | DA             | DE  | DI              | DO                  | DU     |              |
-| DR      | DRA            | DRE | DRI             | DRO                 | DRU    |              |
-| F       | FA             | FE  | FI              | FO                  | FU     |              |
-| FR      | FRA            | FRE | FRI             | FRO                 | FRU    |              |
-| G       | GA             | GE  | GI              | GO                  | GU     |              |
-| GR      | GRA            | GRE | GRI             | GRO                 | GRU    |              |
-| H       | HA             | HE  | HI              | HO<br/>💧 水(liquid) | HU     |              |
-| K       | KA             | KE  | KI              | KO                  | KU     |              |
-| KR      | KRA            | KRE | KRI             | KRO                 | KRU    |              |
-| M       | MA             | ME  | MI              | MO                  | MU     |              |
-| N       | NA             | NE  | NI<br/>这(this)  | NO                  | NU     |              |
-| NG      | NGA            | NGE | NGI             | NGO                 | NGU    |              |
-| P       | PA             | PE  | PI              | PO                  | PU     |              |
-| PR      | PRA            | PRE | PRI             | PRO                 | PRU    |              |
-| R       | RA             | RE  | RI              | RO                  | RU     |              |
-| T       | TA             | TE  | TI              | TO                  | TU     |              |
-| TH      | THA            | THE | THI             | THO                 | THU    |              |
-| TR      | TRA            | TRE | TRI             | TRO                 | TRU    |              |
-| V       | VA             | VE  | VI              | VO<br/>认同(yes)      | VU     |              |
-| W       | WA<br/>我(I/me) | WE  | WI              | WO                  | WU     |              |
-| X       | XA             | XE  | XI<br/> 不(not)  | XO                  | XU     | XU' 虚        |
-| XH (SH) | XHA            | XHE | XHI             | XHO                 | XHU    |              |
-| XT (ST) | XTA            | XTE | XTI             | XTO                 | XTU    | XTU'         |
-| XP (SP) | XPA            | XPE | XPI             | XPO                 | XPU    |              |
-| Y       | YA             | YE  | YI<br/>人(human) | YO                  | YU "u" | YU' 淤青       |
-| Z       | ZA             | ZE  | ZI              | ZO                  | ZU     | 广东猪          |
-| ZH      | ZHA            | ZHE | ZHI             | ZHO                 | ZHU    |              |
+|         | A             | E   | I              | O               | U      | U' <br/>"淤"青 |
+|:-------:|:-------------:|:---:|:--------------:|:---------------:|:------:| ------------ |
+| B       | BA            | BE  | BI             | BO              | BU     |              |
+| BR      | BRA           | BRE | BRI            | BRO             | BRU    |              |
+| C       | CA            | CE  | CI             | CO              | CU     |              |
+| CH      | CHA           | CHE | CHI            | CHO             | CHU    |              |
+| CR      | CRA           | CRE | CRI            | CO              | CRU    |              |
+| D       | DA            | DE  | DI             | DO              | DU     |              |
+| DR      | DRA           | DRE | DRI            | DRO             | DRU    |              |
+| F       | FA            | FE  | FI             | FO              | FU     |              |
+| FR      | FRA           | FRE | FRI            | FRO             | FRU    |              |
+| G       | GA            | GE  | GI             | GO              | GU     |              |
+| GR      | GRA           | GRE | GRI            | GRO             | GRU    |              |
+| H       | HA            | HE  | HI             | HO<br/>水/Liquid | HU     |              |
+| K       | KA            | KE  | KI             | KO              | KU     |              |
+| KR      | KRA           | KRE | KRI            | KRO             | KRU    |              |
+| M       | MA            | ME  | MI             | MO              | MU     |              |
+| N       | NA            | NE  | NI<br/>这/This  | NO              | NU     |              |
+| NG      | NGA           | NGE | NGI            | NGO             | NGU    |              |
+| P       | PA            | PE  | PI             | PO              | PU     |              |
+| PR      | PRA           | PRE | PRI            | PRO             | PRU    |              |
+| R       | RA            | RE  | RI             | RO              | RU     |              |
+| T       | TA            | TE  | TI             | TO              | TU     |              |
+| TH      | THA           | THE | THI            | THO             | THU    |              |
+| TR      | TRA           | TRE | TRI            | TRO             | TRU    |              |
+| V       | VA<br/>认同/Yes | VE  | VI             | VO              | VU     |              |
+| W       | WA            | WE  | WI             | WO              | WU     |              |
+| X       | XA            | XE  | XI<br/> 反对/No  | XO              | XU     | XU' 虚        |
+| XH (SH) | XHA           | XHE | XHI            | XHO             | XHU    |              |
+| XT (ST) | XTA           | XTE | XTI            | XTO             | XTU    | XTU'         |
+| XP (SP) | XPA           | XPE | XPI            | XPO             | XPU    |              |
+| Y       | YA            | YE  | YI<br/>人/Human | YO              | YU "u" | YU' 淤青       |
+| Z       | ZA            | ZE  | ZI             | ZO              | ZU     | 广东猪          |
+| ZH      | ZHA           | ZHE | ZHI            | ZHO             | ZHU    |              |
 
 Continue: 
 
-| AE   | EA   | AI   | IA                    | AO   | OA   |
-| ---- |:----:|:----:|:---------------------:|:----:| ---- |
-| BAE  | BEA  | BAI  | BIA                   | BAO  | BOA  |
-| BRAE | BREA | BRAI | BRIA                  | BRAO | BROA |
-| CAE  | CEA  | CAI  | CIA                   | CAO  | COA  |
-| CHAE | CHEA | CHAI | CHIA                  | CHAO | CHOA |
-| CRAE | CREA | CRAI | CRIA                  | CRAO | CROA |
-| DAE  | DEA  | DAI  | DIA                   | DAO  | DOA  |
-| DRAE | DREA | DRAI | DRIA                  | DRAO | DROA |
-| FAE  | FEA  | FAI  | FIA                   | FAO  | FOA  |
-| FRAE | FREA | FRAI | FRIA                  | FRAO | FROA |
-| GAE  | GEA  | GAI  | GIA                   | GAO  | GOA  |
-| GRAE | GREA | GRAI | GRIA                  | GRAO | GROA |
-| HAE  | HEA  | HAI  | HIA                   | HAO  | HOA  |
-| KAE  | KEA  | KAI  | KIA                   | KAO  | KOA  |
-| KRAE | KREA | KRAI | KRIA                  | KRAO | KROA |
-| MAE  | MEA  | MAI  | MIA                   | MAO  | MOA  |
-| NAE  | MEA  | NAI  | NIA                   | NAO  | NOA  |
-| PAE  | PEA  | PAI  | PIA<br/>打(hit/strike) | PAO  | POA  |
-| PRAE | PREA | PRAI | PRIA                  | PRAO | PROA |
-| RAE  | REA  | RAI  | RIA                   | RAO  | ROA  |
-| TAE  | TEA  | TAI  | TIA                   | TAO  | TOA  |
-| THAE | THEA | THAI | THIA                  | THAO | THOA |
-| TRAE | TREA | TRAI | TRIA                  | TRAO | TROA |
-| VAE  | VEA  | VAI  | VIA                   | VAO  | VOA  |
-| WAE  | WEA  | WAI  | WIA                   | WAO  | WOA  |
-| XAE  | XEA  | XAI  | XIA                   | XAO  | XOA  |
-| XHAE | XHEA | XHAI | XHIA                  | XHAO | XHOA |
-| XTAE | XTEA | XTAI | XTIA                  | XTAO | XTOA |
-| XPAE | XPEA | XPAI | XPIA                  | XPAO | XPOA |
-| YAE  | YEA  | YAI  | YIA                   | YAO  | YOA  |
-| ZAE  | ZEA  | ZAI  | ZIA                   | ZAO  | ZOA  |
-| ZHAE | ZHEA | ZHAI | ZHIA                  | ZHAO | ZHOA |
+| AE   | EA   | AI<br/>我/Self | IA                    | AO   | OA   |
+| ---- |:----:|:-------------:|:---------------------:|:----:| ---- |
+| BAE  | BEA  | BAI           | BIA                   | BAO  | BOA  |
+| BRAE | BREA | BRAI          | BRIA                  | BRAO | BROA |
+| CAE  | CEA  | CAI           | CIA                   | CAO  | COA  |
+| CHAE | CHEA | CHAI          | CHIA                  | CHAO | CHOA |
+| CRAE | CREA | CRAI          | CRIA                  | CRAO | CROA |
+| DAE  | DEA  | DAI           | DIA                   | DAO  | DOA  |
+| DRAE | DREA | DRAI          | DRIA                  | DRAO | DROA |
+| FAE  | FEA  | FAI           | FIA                   | FAO  | FOA  |
+| FRAE | FREA | FRAI          | FRIA                  | FRAO | FROA |
+| GAE  | GEA  | GAI           | GIA                   | GAO  | GOA  |
+| GRAE | GREA | GRAI          | GRIA                  | GRAO | GROA |
+| HAE  | HEA  | HAI           | HIA                   | HAO  | HOA  |
+| KAE  | KEA  | KAI           | KIA                   | KAO  | KOA  |
+| KRAE | KREA | KRAI          | KRIA                  | KRAO | KROA |
+| MAE  | MEA  | MAI           | MIA                   | MAO  | MOA  |
+| NAE  | MEA  | NAI           | NIA                   | NAO  | NOA  |
+| PAE  | PEA  | PAI           | PIA<br/>打(hit/strike) | PAO  | POA  |
+| PRAE | PREA | PRAI          | PRIA                  | PRAO | PROA |
+| RAE  | REA  | RAI           | RIA                   | RAO  | ROA  |
+| TAE  | TEA  | TAI           | TIA                   | TAO  | TOA  |
+| THAE | THEA | THAI          | THIA                  | THAO | THOA |
+| TRAE | TREA | TRAI          | TRIA                  | TRAO | TROA |
+| VAE  | VEA  | VAI           | VIA                   | VAO  | VOA  |
+| WAE  | WEA  | WAI           | WIA                   | WAO  | WOA  |
+| XAE  | XEA  | XAI           | XIA                   | XAO  | XOA  |
+| XHAE | XHEA | XHAI          | XHIA                  | XHAO | XHOA |
+| XTAE | XTEA | XTAI          | XTIA                  | XTAO | XTOA |
+| XPAE | XPEA | XPAI          | XPIA                  | XPAO | XPOA |
+| YAE  | YEA  | YAI           | YIA                   | YAO  | YOA  |
+| ZAE  | ZEA  | ZAI           | ZIA                   | ZAO  | ZOA  |
+| ZHAE | ZHEA | ZHAI          | ZHIA                  | ZHAO | ZHOA |
 
 Continue:
 
