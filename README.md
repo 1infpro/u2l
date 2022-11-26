@@ -11,27 +11,21 @@
 
 5. Scientific: Users can collaborate scientific & mathematical idea or jargon into the language to encourage exploratory spirit of fellow scientists. This language could overcome limitation, ambiguities & bias from some natural languages including English, Chinese, Arabic etc.
 
-
-
 ###### Why don't use existing natural language or conlang eg: Esperanto & Ido instead of creating a new language from scratch?
 
 - Every language has its own pros & cons, so we'd like to make good use of all the pros & get rid of the unnecessities.
 
-
-
 ###### Why did you allow people to copy & distribute your hard work here?
 
-- We believe a language is meant to unify people via communication, instead of discrimination. If our project failed for whatever reasons (political, social, or simply misunderstanding), we hope that your projects may make it for us. You can simply fork it & create an independent branch.
-
-
+- We believe a language is meant to unify people via communication, instead of discrimination. If our project failed for whatever reasons (political, social, or simply misunderstanding), we hope that your projects may make it for us. You can simply fork it & create a new branch for yourself.
 
 ---
 
-Table of contents:
+### Table of contents:
 
-[字母 Letter](字母_Letter.md) = (A),(B),(C)...(Z)
+[字母 Letter](字母_Letter.md) = `a`, `b`, `c`...
 
-[单词 Basic word](单词_Basic_word.md) = (WA), (HO), (MA)...
+[单词 Basic word](单词_Basic_word.md) = `ba`, `ik`, `xhi`...
 
 [合成词 Compound word](合成词_Compound_word.md) = (HO) + (MA) + (A) = (HOMAA)
 
@@ -42,3 +36,10 @@ Table of contents:
 5. [词库 Vocabulary](%E8%AF%8D%E5%BA%93_Vocabulary.md)
 
 [句子 Sentence structure](句子_Sentence_structure.md) = aij homaa hoi.
+
+---
+
+For your convenience, you can use markdown editor like:
+
+- https://github.com/marktext/marktext
+- https://github.com/Zettlr/Zettlr
