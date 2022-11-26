@@ -26,51 +26,51 @@ Pronunciation is unique for each spelling to avoid ambiguities which exist in En
 
 Basic words & meaning. Please use word with simpler pronunciation for commonly used word: [常用词 Common_word](常用词_Common_word.md)
 
-|         | A<br/>啊       | E<br/>婀娜   | I<br/>衣服        | O<br/>哦        | U<br/>乌鸦      |
-|:-------:|:-------------:|:----------:|:---------------:|:--------------:|:-------------:|
-| B       | BA<br/>八千     | BE         | BI<br/>逼迫       | BO             | BU            |
-| ??BH    | BHA           | BHE        | BHI             | BHO            | BHU           |
-| BR      | BRA           | BRE        | BRI             | BRO            | BRU           |
-| C       | CA<br/>擦鞋     | CE         | CI<br/>瑕疵       | CO             | CU<br/>粗细     |
-| CH      | CHA<br/>叉子    | CHE<br/>车子 | CHI<br/>吃饭      | CHO            | CHU<br/>出门    |
-| D       | DA<br/>搭车     | DE         | DI<br/>低调       | DO             | DU<br/>都市     |
-| ??DH    | DHA<br/>dadah | DHE        | DHI             | DHO            | DHU<br/>Dubai |
-| DR      | DRA           | DRE        | DRI             | DRO            | DRU           |
-| F       | FA<br/>发财     | FE         | FI              | FO             | FU<br/>肤质     |
-| FR      | FRA           | FRE        | FRI             | FRO            | FRU           |
-| G       | GA            | GE         | GI<br/>"Giggle" | GO             | GU            |
-| ??GH    | GHA<br/>咖喱    | GHE<br/>歌曲 | GHI             | GHO            | GHU<br/>估计    |
-| GR      | GRA           | GRE        | GRI             | GRO            | GRU           |
-| H       | HA<br/>哈哈     | HE<br/>喝水  | HI              | HO             | HU            |
-| J       | ~~JA =ZA~~    | ~~JE =ZE~~ | JI<br/>鸡脚       | JO<br/>"joker" | JU<br/>"July" |
-| JH      |               |            | JHI<br/>居住      |                |               |
-| K       | KA            | KE<br/>科学  | KI              | KO             | KU<br/>哭泣     |
-| KR      | KRA           | KRE        | KRI             | KRO            | KRU           |
-| L       | LA            | LE         | LI<br/>力量       | LO             | LU            |
-|         |               |            | LHI<br/>律师      |                |               |
-| M       | MA<br/>妈咪     | ME         | MI<br/>咪咪       | MO             | MU            |
-| N       | NA            | NE         | NI              | NO             | NU            |
-| NH      |               |            | NHI<br/>女生      |                |               |
-| NG      | NGA           | NGE        | NGI             | NGO            | NGU           |
-| P       | PA<br/>趴下     | PE         | PI<br/>批改       | PO             | PU<br/>扑鼻香    |
-| PH      |               |            | PHI<br/>时间?     |                |               |
-| PR      | PRA           | PRE        | PRI             | PRO            | PRU           |
-| Q       | QA =CHA       | QE =CHE    | QI<br/>七百       | QO =CO/KO      | QU =CHU       |
-| QH      |               |            | QHI<br/>屈原      |                |               |
-| R       | RA            | RE         | RI              | RO             | RU            |
-| T       | TA<br/>他们     | TE         | TI<br/>梯田       | TO             | TU<br/>突发     |
-| TH      | THA           | THE        | THI             | THO            | THU           |
-| TR      | TRA           | TRE        | TRI             | TRO            | TRU           |
-| V       | VA            | VE         | VI              | VO             | VU            |
-| W       | WA            | WE         | WI              | WO             | WU = U        |
-| X       | XA<br/>撒娇     | XE         | XI<br/> 希望      | XO             | XU<br/>苏醒     |
-| XH (SH) | XHA<br/>沙发    | XHE<br/>奢华 | XHI<br/>虚弱      | XHO            | XHU<br/>书包    |
-| XT (ST) | XTA           | XTE        | XTI             | XTO            | XTU           |
-| XP (SP) | XPA           | XPE        | XPI             | XPO            | XPU           |
-| Y       | YA<br/>鸭蛋     | YE<br/>耶稣  | YI<br/>衣服       | YO             | YU/YIU        |
-| YH      |               |            | YHI<br/>淤青      |                |               |
-| Z       | ZA<br/>扎辫     | ZE         | ZI<br/>姿势       | ZO             | ZU<br/>租房     |
-| ZH      | ZHA<br/>渣子    | ZHE<br/>遮盖 | ZHI<br/>芝麻      | ZHO            | ZHU<br/>珠宝    |
+|           | A<br/>啊       | E<br/>婀娜      | I<br/>衣服        | O<br/>哦        | U<br/>乌鸦      |
+|:---------:|:-------------:|:-------------:|:---------------:|:--------------:|:-------------:|
+| B         | BA<br/>八千     | BE            | BI<br/>逼迫       | BO             | BU            |
+| ??BH      | BHA           | BHE           | BHI             | BHO            | BHU           |
+| BR        | BRA           | BRE           | BRI             | BRO            | BRU           |
+| C         | CA<br/>擦鞋     | CE            | CI<br/>瑕疵       | CO             | CU<br/>粗细     |
+| CH        | CHA<br/>叉子    | CHE<br/>车子    | CHI<br/>吃饭      | CHO            | CHU<br/>出门    |
+| D         | DA<br/>搭车     | DE            | DI<br/>低调       | DO             | DU<br/>都市     |
+| ??DH      | DHA<br/>dadah | DHE           | DHI             | DHO            | DHU<br/>Dubai |
+| DR        | DRA           | DRE           | DRI             | DRO            | DRU           |
+| F         | FA<br/>发财     | FE            | FI              | FO             | FU<br/>肤质     |
+| FR        | FRA           | FRE           | FRI             | FRO            | FRU           |
+| G         | GA            | GE            | GI<br/>"Giggle" | GO             | GU            |
+| ??GH      | GHA<br/>咖喱    | GHE<br/>歌曲    | GHI             | GHO            | GHU<br/>估计    |
+| GR        | GRA           | GRE           | GRI             | GRO            | GRU           |
+| H         | HA<br/>哈哈     | HE<br/>喝水     | HI              | HO             | HU            |
+| J         | ~~JA =ZA~~    | ~~JE =ZE~~    | JI<br/>鸡脚       | JO<br/>"joker" | JU<br/>"July" |
+| JH        | ~~JHA = ZHA~~ | ~~JHE = ZHE~~ | JHI<br/>居住      | ~~JHO = ZHO~~  | ~~JHU = ZHU~~ |
+| K         | KA            | KE<br/>科学     | KI              | KO             | KU<br/>哭泣     |
+| KR        | KRA           | KRE           | KRI             | KRO            | KRU           |
+| L         | LA            | LE            | LI<br/>力量       | LO             | LU            |
+| LH        | ~~LHA = LA~~  | ~~LHE = LE~~  | LHI<br/>律师      | ~~LHO = LO~~   | ~~LHU = LU~~  |
+| M         | MA<br/>妈咪     | ME            | MI<br/>咪咪       | MO             | MU            |
+| N         | NA            | NE            | NI              | NO             | NU            |
+| NH        | ~~NHA = NA~~  | ~~NHE = NE~~  | NHI<br/>女生      | ~~NHO = NO~~   | ~~NHU = NU~~  |
+| NG        | NGA           | NGE           | NGI             | NGO            | NGU           |
+| P         | PA<br/>趴下     | PE            | PI<br/>批改       | PO             | PU<br/>扑鼻香    |
+| ~~?? PH~~ |               |               | ~~PHI<br/>时间?~~ |                |               |
+| PR        | PRA           | PRE           | PRI             | PRO            | PRU           |
+| Q         | ~~QA =CHA~~   | ~~QE =CHE~~   | QI<br/>七百       | ~~QO =CO/KO~~  | ~~QU =CHU~~   |
+| QH        | ~~QHA = CHA~~ | ~~QHA = CHE~~ | QHI<br/>屈原      | ~~QHO = CHO~~  | ~~QHU = CHO~~ |
+| R         | RA            | RE            | RI              | RO             | RU            |
+| T         | TA<br/>他们     | TE            | TI<br/>梯田       | TO             | TU<br/>突发     |
+| TH        | THA           | THE           | THI             | THO            | THU           |
+| TR        | TRA           | TRE           | TRI             | TRO            | TRU           |
+| V         | VA            | VE            | VI              | VO             | VU            |
+| W         | WA            | WE            | WI              | WO             | WU = U        |
+| X         | XA<br/>撒娇     | XE            | XI<br/> 希望      | XO             | XU<br/>苏醒     |
+| XH (SH)   | XHA<br/>沙发    | XHE<br/>奢华    | XHI<br/>虚弱      | XHO            | XHU<br/>书包    |
+| XT (ST)   | XTA           | XTE           | XTI             | XTO            | XTU           |
+| XP (SP)   | XPA           | XPE           | XPI             | XPO            | XPU           |
+| Y         | YA<br/>鸭蛋     | YE<br/>耶稣     | YI<br/>衣服       | YO             | YU/YIU        |
+| YH        |               |               | YHI<br/>淤青      |                |               |
+| Z         | ZA<br/>扎辫     | ZE            | ZI<br/>姿势       | ZO             | ZU<br/>租房     |
+| ZH        | ZHA<br/>渣子    | ZHE<br/>遮盖    | ZHI<br/>芝麻      | ZHO            | ZHU<br/>珠宝    |
 
 Continue: 
 
