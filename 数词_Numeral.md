@@ -14,13 +14,13 @@
 
 数字 Number:
 
-### <u>设计哲理 Philosophy:</u>
+### 设计哲理 Philosophy:
 
 1. The basic numbers 0-10 are all one syllable long [音节 Syllable](%E9%9F%B3%E8%8A%82_Syllable.md) (instead of "se-ven" in English) so that they are easier to be pronounced & remembered (eg: (eg: in multiplication table & calculation).
 
 2. The numbers 1-10 follows a sequence from `a` to `u`.
    
-   - 缺点Cons: may cause confusion between odd & even numbers eg: 1&2, 3&4.
+   - 缺点Cons: may cause confusion between odd & even numbers eg: 1&2, 3&4.If you have better idea, please let us know.
 
 3. Odd numbers end with `n` (single door).
 
@@ -28,54 +28,108 @@
 
 
 
-### <u>Basic numbers (0-10)</u>
+### Basic numbers (0-10)
+
+
+
+|     | Word  | Meaning |
+| --- | ----- | ------- |
+| u   | `ux`  | 0       |
+| a   | `wan` | 1       |
+|     | `dam` | 2       |
+| e   | `sen` | 3       |
+|     | `fem` | 4       |
+| i   | `fin` | 5       |
+|     | `nim` | 6       |
+| o   | `ton` | 7       |
+|     | `pom` | 8       |
+| u   | `nun` | 9       |
+|     | `xum` | 10      |
 
 (一) One
 
 - `an`
-  
-  - `n` for odd number (单数)
 
 - `wan`
 
-`am` = (二) Two
+- 
 
-- `m` for even number (双数)
+(二) Two
 
-`en` = (三) Three
+- `dam`
+- `tam`
+- `duom`
+- `duam`
+- 
 
+(三) Three
+
+- `sen`
 - `san`
 
-`em` = (四) Four
+(四) Four
 
-`in` = (五) Five
+- `fem`
 
-`im` = (六) Six
+- 
 
-`on` = (七) Seven
+(五) Five
 
-`om` = (八) Eight
+- `fin`
 
-`un` = (九) Nine
+- `win`
 
-`um` = (十) Ten
+- 
 
-`um-an` = (十一) Eleven
+(六) Six
 
-`amum-an` = (二十一) Twenty-one
+- `nim`
 
-|     | Word | Meaning |
-| --- | ---- | ------- |
-| a   | wan  | 1       |
-|     | dam  | 2       |
-| e   | sen  | 3       |
-|     | fem  | 4       |
-| i   | fin  | 5       |
-|     | nim  | 6       |
-| o   | ton  | 7       |
-|     | pom  | 8       |
-| u   | nun  | 9       |
-|     | xum  | 10      |
+- `lim`
+
+- 
+
+(七) Seven
+
+- `ton`
+
+- `xon`
+
+- 
+
+(八) Eight
+
+- `pom`
+
+- 
+
+(九) Nine
+
+- `nun`
+
+- `jun`
+
+- 
+
+(十) Ten
+
+- `xum`
+
+- `tem`
+
+- 
+
+(十一) Eleven
+
+- `tum-wan`
+
+-  
+
+(二十一) Twenty-one
+
+- `Damtum-wan` 
+
+
 
 ---
 
