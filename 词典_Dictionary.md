@@ -437,7 +437,7 @@ Related:
 
 #lai
 
-https://user-images.githubusercontent.com/118973770/204116185-5d187bb4-64ab-4a04-9075-8ed1413c9ece.png
+![](https://user-images.githubusercontent.com/118973770/204116185-5d187bb4-64ab-4a04-9075-8ed1413c9ece.png)
 
 | 根义🔣    | lai     | 吸引,集合 Attract           |
 | ------- | ------- | ----------------------- |
