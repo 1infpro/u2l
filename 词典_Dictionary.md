@@ -4,8 +4,6 @@ This page is WIP. If you found any bug or confusing info, please inform us. We w
 
 Each word could exist in different forms, by simply changing the suffix (ending):
 
-
-
 | Suffix    | Form  | Definition                                                                                                       |
 | ---------:| ----- | ---------------------------------------------------------------------------------------------------------------- |
 |           | 🔣    | Root form is the root meaning (can be a broad meaning with multiple definitions)                                 |
@@ -46,15 +44,15 @@ Each word could exist in different forms, by simply changing the suffix (ending)
 
 - `Nib boi bea aid.` = 这球是我的 This ball is mine.(my & mine both use `aid`)
 
-- `Ais bea is` = 我们是人类  We are humans.
+- `Ais bea is.` = 我们是人类  We are humans.
 
-- `Ai xiniq biuya aid aidi` = 我当时(之前)射到我自己了 I shot myself.
+- `Ai xiniq biuya aid aidi.` = 我当时(之前)射到我自己了 I shot myself.
 
 ---
 
 #i
 
-| 根义🔣    | i         | 人类 Human                      |
+| 根义🔣    | i         | 人类 #Human                     |
 | ------- | --------- | ----------------------------- |
 | 中性🤖    | `ii`/`yi` | 人类 Human (unisex)             |
 | 阴性👩‍🦰 | `il`      | 女人 Female                     |
@@ -69,36 +67,42 @@ Each word could exist in different forms, by simply changing the suffix (ending)
 | 形容✨     | `id`      | 人的                            |
 | 副词✨     | `ib`      |                               |
 
+相关 Related:
+
+例句 Example sentences:
+
+- `Ai bea an yi.`= I'm a human.
+
+- `Ail bea an il.`= I'm a woman.
+
+- `Aij bea an ij.`= I'm a man.
+
 ---
 
 #be
 
-
-
-| 根义🔣    | be     | 是,存在 Be, State         |
-| ------- | ------ | ---------------------- |
-| 中性🤖    | `bei`  | 存在,状态 Being, Existence |
-| 阴性👩‍🦰 | `bel`  | 妇科 Status of female    |
-| 阳性🎅    | `bej`  | 男科 Status of male      |
-| 复数👫    | `beis` | ??                     |
-| 地点🏚    | `beu`  | ??                     |
-| 过去🕒    | `beq`  | ??                     |
-| 现在🕒    | `beo`  | ??                     |
-| 未来🕒    | `bep`  | ??                     |
-| 动作🏃‍♂️ | `bea`  | 是 am/is/are/was/were   |
-| 形容✨     | `bed`  | 存在的 Existent           |
-| 动作🏃‍♂️ | `beda` | 成为 Become              |
-| 副词✨     | `beb`  | ?? Existentially?      |
-
-
+| 根义🔣    | be     | 是,存在 Be, State          |
+| ------- | ------ | ----------------------- |
+| 中性🤖    | `bei`  | 存在,状态 Being, Existence  |
+| 阴性👩‍🦰 | `bel`  | 妇科 Status of female     |
+| 阳性🎅    | `bej`  | 男科 Status of male       |
+| 复数👫    | `beis` | ??                      |
+| 地点🏚    | `beu`  | ??                      |
+| 过去🕒    | `beq`  | ??                      |
+| 现在🕒    | `beo`  | ??                      |
+| 未来🕒    | `bep`  | ??                      |
+| 动作🏃‍♂️ | `bea`  | 是,在 #am/is/are/was/were |
+| 形容✨     | `bed`  | 存在的 Existent            |
+| 动作🏃‍♂️ | `beda` | 成为 Become               |
+| 副词✨     | `beb`  | ?? Existentially?       |
 
 相关 Related:
 
-- 
-
-例句 Example sentences:
+- 例句 Example sentences:
 
 - `Ai bea an yi.` = 我是一个人类 I am a human.
+
+- `Ai bea niu!` = 我在这里!
 
 - `Nio bea 1pm.`= 现在是一点 It (Now) is 1pm now.
 
@@ -172,38 +176,43 @@ Each word could exist in different forms, by simply changing the suffix (ending)
 
 ---
 
-<style>
-</style>
+#xi
 
-| 根义🔣    | xi    | 不 #No, #Not |
-| ------- | ----- | ----------- |
-| 中性🤖    | `xi`  | 不 No        |
-| 阴性👩‍🦰 | `xil` |             |
-| 阳性🎅    | `xij` |             |
-| 复数👫    | `xis` |             |
-| 地点🏚    | `xiu` |             |
-| 过去🕒    | `xiq` |             |
-| 现在🕒    | `xio` |             |
-| 未来🕒    | `xip` |             |
-| 动作🏃‍♂️ | `xia` |             |
-| 形容✨     | `xid` | 不 #No, #Not |
-| 副词✨     | `xib` |             |
+| 根义🔣    | xi    | 不 No, Not |
+| ------- | ----- | --------- |
+| 中性🤖    | `xi`  | 不 #No     |
+| 阴性👩‍🦰 | `xil` |           |
+| 阳性🎅    | `xij` |           |
+| 复数👫    | `xis` |           |
+| 地点🏚    | `xiu` |           |
+| 过去🕒    | `xiq` |           |
+| 现在🕒    | `xio` |           |
+| 未来🕒    | `xip` |           |
+| 动作🏃‍♂️ | `xia` |           |
+| 形容✨     | `xid` | 不 #Not    |
+| 副词✨     | `xib` |           |
+
+相关 Related:
+
+- [反义词 Opposites](反义词_Opposites.md)
+
+例句 Example sentences:
 
 ---
 
 #ni 
 
-| 🔣    | ni   | 这 This                                          |
-| ----- | ---- | ----------------------------------------------- |
-| 🤖    | niyi | 你 (无性的) This person/object in front of me = You |
-| 👩‍🦰 | nil  | 妳 This woman in front of me = You               |
-| 🎅    | nij  | 你 This man in front of me = You                 |
-| 👫    | niis | 你们 You all (at least 2 people/objects)          |
-| 🏚    | niu  | 这里 This place = Here                            |
-| 🕒    | nio  | 现在,当下 This moment = Now                         |
-| 🏃‍♂️ | nia  | 变成你的 Make sth yours                             |
-| ✨     | nib  | 你的 Your / Yours                                 |
-| ✨     | nid  | ??                                              |
+| 🔣    | ni  | 这 #This                                         |
+| ----- | --- | ----------------------------------------------- |
+| 🤖    | ni  | 你 (无性的) This person/object in front of me = You |
+| 👩‍🦰 | nil | 妳 This woman in front of me = You               |
+| 🎅    | nij | 你 This man in front of me = You                 |
+| 👫    | nis | 你们 You all (at least 2 people/objects)          |
+| 🏚    | niu | 这里 This place = Here                            |
+| 🕒    | nio | 现在,当下 This moment = Now                         |
+| 🏃‍♂️ | nia | 变成你的 Make sth yours                             |
+| ✨     | nib | 你的 Your / Yours                                 |
+| ✨     | nid | ??                                              |
 
 Example sentence:
 
@@ -213,9 +222,8 @@ Example sentence:
 
 #xini
 
-|         |         |                                 |
-| ------- | ------- | ------------------------------- |
 | 根义🔣    | xini    | 那 #That                         |
+| ------- | ------- | ------------------------------- |
 | 中性🤖    | `xini`  | 它 (无性的) That person/object = it |
 | 阴性👩‍🦰 | `xinil` | 她 That woman = She              |
 | 阳性🎅    | `xinij` | 他 That man = He                 |
@@ -429,29 +437,35 @@ Related:
 
 #lai
 
-<style>
-</style>
+https://user-images.githubusercontent.com/118973770/204116185-5d187bb4-64ab-4a04-9075-8ed1413c9ece.png
 
-| 根义🔣    | lai     |                  |
-| ------- | ------- | ---------------- |
-| 中性🤖    | `laii`  |                  |
-| 阴性👩‍🦰 | `lail`  |                  |
-| 阳性🎅    | `laij`  |                  |
-| 复数👫    | `laiis` |                  |
-| 地点🏚    | `laiu`  |                  |
-| 过去🕒    | `laiq`  |                  |
-| 现在🕒    | `laio`  |                  |
-| 未来🕒    | `laip`  |                  |
-| 动作🏃‍♂️ | `laia`  |                  |
-| 形容✨     | `laid`  |                  |
-| 副词✨     | `laib`  | 来自? from? (come) |
+| 根义🔣    | lai     | 吸引,集合 Attract           |
+| ------- | ------- | ----------------------- |
+| 中性🤖    | `laii`  |                         |
+| 阴性👩‍🦰 | `lail`  |                         |
+| 阳性🎅    | `laij`  |                         |
+| 复数👫    | `laiis` |                         |
+| 地点🏚    | `laiu`  |                         |
+| 过去🕒    | `laiq`  |                         |
+| 现在🕒    | `laio`  |                         |
+| 未来🕒    | `laip`  |                         |
+| 动作🏃‍♂️ | `laia`  | 吸引 Attract (to oneself) |
+| 形容✨     | `laid`  |                         |
+| 副词✨     | `laib`  | 来自? from? (come)        |
+
+
+
+
+
+Other suggestion:
+
+- `xix`
+
+- `ying`
 
 ---
 
 #xilai
-
-<style>
-</style>
 
 | 根义🔣    | xilai     | 去 #go, away?          |
 | ------- | --------- | --------------------- |
@@ -529,14 +543,110 @@ Example:
 | 过去🕒    | `vaq`  |                            |
 | 现在🕒    | `vao`  | 什么时候 #When                 |
 | 未来🕒    | `vap`  |                            |
-| 动作🏃‍♂️ | `vaa`  | ??　质问,疑问 Ask question      |
+| 动作🏃‍♂️ | `va`   | ??　质问,疑问 Ask question      |
 | 形容✨     | `vad`  | 如何 #How                    |
 | 副词✨     | `vab`  | ??                         |
 
-Example:
+相关 Related:
 
-- I ask him.
+- ??
 
-- What is this?
+例句 Example sentences:
+
+- `Ai va xinij.` = I ask him.
+
+- `Vai bea ni?` = What is this?
+
+- `Ni bea vai?` = 这是啥?
+
+- `Vau bea ai?` = Where am I?
+
+- `Niu bea vau?` = 这里是哪里?
+
+---
+
+#zhe
+
+| 根义🔣    | zhe     | 遮盖 Cover              |
+| ------- | ------- | --------------------- |
+| 中性🤖    | `zhei`  | 遮盖物,#衣物 Cover, #Cloth |
+| 阴性👩‍🦰 | `zhel`  | Female cloth          |
+| 阳性🎅    | `zhej`  | Male cloth            |
+| 复数👫    | `zheis` |                       |
+| 地点🏚    | `zheu`  |                       |
+| 过去🕒    | `zheq`  |                       |
+| 现在🕒    | `zheo`  |                       |
+| 未来🕒    | `zhep`  |                       |
+| 动作🏃‍♂️ | `zhea`  | To #wear cloth, cover |
+| 中性🤖    | `zheai` |                       |
+| 形容✨     | `zhed`  |                       |
+| 中性🤖    | `zhedi` |                       |
+| 副词✨     | `zheb`  |                       |
+
+相关 Related:
+
+- `apzhei` = 上衣Shirt (Up + Cloth)
+
+例句 Example sentences:
+
+- `Xinil zhea an red apzhej.` She wears a red male shirt.
+
+---
+
+#ken
+
+| 根义🔣    | ken     | 可能 Possible  |
+| ------- | ------- | ------------ |
+| 中性🤖    | `keni`  | #Possibility |
+| 阴性👩‍🦰 | `kenl`  |              |
+| 阳性🎅    | `kenj`  |              |
+| 复数👫    | `kenis` |              |
+| 地点🏚    | `kenu`  |              |
+| 过去🕒    | `kenq`  |              |
+| 现在🕒    | `keno`  |              |
+| 未来🕒    | `kenp`  |              |
+| 动作🏃‍♂️ | `kena`  |              |
+| 中性🤖    | `kenai` |              |
+| 形容✨     | `kend`  | #Possible    |
+| 中性🤖    | `kendi` |              |
+| 副词✨     | `kenb`  | Possibly     |
+
+相关 Related:
+
+例句 Example sentences:
+
+- `Ifkenb xinil xibea yi.`= 很大的可能她不是人类  It's highly possible she is not a human.
+
+---
+
+#ya
+
+| 根义🔣    | ya     | 动 #Movement, #Action |
+| ------- | ------ | -------------------- |
+| 中性🤖    | `yai`  | 动作 Movement, Action  |
+| 阴性👩‍🦰 | `yal`  |                      |
+| 阳性🎅    | `yaj`  |                      |
+| 复数👫    | `yais` |                      |
+| 地点🏚    | `yau`  |                      |
+| 过去🕒    | `yaq`  |                      |
+| 现在🕒    | `yao`  |                      |
+| 未来🕒    | `yap`  |                      |
+| 动作🏃‍♂️ | `ya`   | To move, act         |
+| 中性🤖    | `yaai` |                      |
+| 形容✨     | `yad`  | 移动的 Moving           |
+| 中性🤖    | `yadi` |                      |
+| 副词✨     | `yab`  |                      |
+
+相关 Related:
+
+- Vehicle
+
+- Transport
+
+- Travel
+
+例句 Example sentences:
+
+- 
 
 ---
