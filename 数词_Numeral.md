@@ -1,14 +1,28 @@
 ## 数词 Numeral
 
-1. Numbers
+1. Numbers/Quantity (cardinal numbers eg: One, Two...)
+   
+   - An apple = One apple
+     
+     - a/an are redundant
 
-2. quantity (cardinal numbers)
+2. Sequence (ordinal numbers eg: First, Second...) 
 
-3. sequence (ordinal numbers) 
+3. Frequency (Eg: Once, twice)
 
-4. frequency (once, twice)
+4. 双倍 Double, triple, dozen (12)
 
-5. part (fraction)
+5. Part (fraction)
+
+6. One-by-one
+
+7. Pair
+
+8. Many
+
+9. 量词 Numeral classifiers
+
+10. Percent
 
 ---
 
@@ -16,15 +30,15 @@
 
 ### 设计哲理 Philosophy:
 
-1. The basic numbers 0-10 are all one syllable long [音节 Syllable](%E9%9F%B3%E8%8A%82_Syllable.md) (instead of "se-ven" in English) so that they are easier to be pronounced & remembered (eg: (eg: in multiplication table & calculation).
+1. The basic numbers 0-10 are all one-syllable long [音节 Syllable](%E9%9F%B3%E8%8A%82_Syllable.md) (instead of longer "se-ven" in English) so that they are easier to be pronounced & remembered (eg: (eg: in multiplication table & calculation).
 
-2. The numbers 1-10 follows a sequence from `a` to `u`.
+2. Odd numbers end with `n` (single door).
+
+3. Even numbers end with `m` (double door).
+
+4. The numbers 1-10 follows a sequence from `a` to `u`.
    
    - 缺点Cons: may cause confusion between odd & even numbers eg: 1&2, 3&4.If you have better idea, please let us know.
-
-3. Odd numbers end with `n` (single door).
-
-4. Even numbers end with `m` (double door).
 
 
 
@@ -32,19 +46,19 @@
 
 
 
-|     | Word  | Meaning |
-| --- | ----- | ------- |
-| u   | `ux`  | 0       |
-| a   | `wan` | 1       |
-|     | `dam` | 2       |
-| e   | `sen` | 3       |
-|     | `fem` | 4       |
-| i   | `fin` | 5       |
-|     | `nim` | 6       |
-| o   | `ton` | 7       |
-|     | `pom` | 8       |
-| u   | `nun` | 9       |
-|     | `xum` | 10      |
+|     | Word  | Meaning  |
+| --- | ----- | -------- |
+| u   | `ux`  | 0 (.)    |
+| a   | `wan` | 1 (I)    |
+|     | `dam` | 2 (II)   |
+| e   | `ben` | 3 (III)  |
+|     | `fem` | 4 (IV)   |
+| i   | `vin` | 5 (V)    |
+|     | `nim` | 6 (VI)   |
+| o   | `ton` | 7 (VII)  |
+|     | `pom` | 8 (VIII) |
+| u   | `nun` | 9 (IX)   |
+|     | `xum` | 10 (X)   |
 
 (一) One
 
@@ -133,19 +147,35 @@
 
 ---
 
-| 词 Word | 意思 Meaning       |
-| ------ | ---------------- |
-| `ax`   | All              |
-| `ex`   | 3/4              |
-| `ix`   | Half             |
-| `ox`   | 1/4, One-quarter |
-| `ux`   | Zero             |
+Parts/Quarter:
+
+### 设计哲理 Philosophy:
+
+1. for easier recognition, words contain letter `x` which divides into 4 parts equally. Eg:
+
+| 词 Word | 意思 Meaning                |
+| ------ | ------------------------- |
+| `ax`   | 4/4, All, Full =1.00      |
+| `ex`   | 3/4, Three quarters =0.75 |
+| `ix`   | 2/4= 1/2, Half =0.50      |
+| `ox`   | 1/4, One-quarter =0.25    |
+| `ux`   | 0/4, None, Zero =0        |
+
+分数 Fraction
+
+- (1 over 2)
+
+- (1 divided by 2)
 
 ---
 
+大数字 Big numbers:
+
+- https://simple.wikipedia.org/wiki/Names_of_large_numbers
+
 `an vam` = (一百) One hundred = 100 = 1x10^2 = 1e2
 
-- (One e Two = `an` + `v` + `am`)
+- (One e Two = `an` + `e` + `am`)
 
 `an vanvam` = One googol = 1x10^100 = 1e100 = 1e(1e2)
 
@@ -157,31 +187,15 @@
 
 `an vam amum-im` = 126
 
-`an vanamim` = One duoquardragintillion = 1e126
+`wan ewandamnim` = One duoquardragintillion = 1e126
 
-`in ven` = 5e3 = 5000
+`fin eben` = 5e3 = 5000
 
 ---
 
-| 词 Word | 意思 Meaning       |
-| ------ | ---------------- |
-| `ar`   | All              |
-| `er`   | 3/4              |
-| `ir`   | Half             |
-| `or`   | 1/4, One-quarter |
-| `ur`   | Zero             |
-
-一半 Half
-
-- `ir`
-
-- `haf`
-
-- `ban`
-
 加 Addition, Plus
 
-- `ad`
+- `ada`
 
 - `zia`
 
@@ -191,9 +205,7 @@
 
 除 Division
 
-大数字 Big numbers:
 
-- https://simple.wikipedia.org/wiki/Names_of_large_numbers
 
 第一 First place, Number one
 
@@ -223,17 +235,23 @@ Zero point zero one = 0.01
 
 - 算数+学科/领域 (Calculate + Subject/Field)
 
-Fraction
 
-- (1 over 2)
-
-- (1 divided by 2)
 
 Equal = Same
 
 - `sam`
 
 - `seim`
+
+---
+
+量词 Numeral classifiers
+
+有些量词不是必需的,不过要放也没关系
+
+- 两头牛 = 二牛
+
+- 三个人 = 三人
 
 ---
 
