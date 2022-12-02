@@ -8,7 +8,7 @@ Basic words & meaning. Please use word with simpler pronunciation for commonly u
 
 |                     | A<br/>啊                         | I<br/>衣服                     | E<br/>婀娜                | O<br/>哦                        | U<br/>乌鸦                       |
 |:-------------------:|:-------------------------------:|:----------------------------:|:-----------------------:|:------------------------------:|:------------------------------:|
-| P<br/>https://user-images.githubusercontent.com/118973770/205226344-e6e53917-7bfd-4d61-a68e-12af757413c2.mp4
+| P<br/>[🔊](https://user-images.githubusercontent.com/118973770/205226344-e6e53917-7bfd-4d61-a68e-12af757413c2.mp4)
 
   | PA<br/>趴下                       | PI<br/>批改                    | PE                      | PO                             | PU<br/>扑鼻香                     |
 | B<br/>[🔊](B.mp3)   | BA<br/>八千<br/>[bʌ]<br/>"bu"cket | BI<br/>逼迫<br/>[bɪ]<br/>"bi"t | BE<br/>[bə]<br/>em"be"r | BO<br/>[bɔː]<br/>"boa"rd       | BU<br/>布料<br/>[bʊ]<br/>"boo"k  |
