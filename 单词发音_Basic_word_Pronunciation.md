@@ -2,204 +2,208 @@ This page is WIP. If you found any bug or confusing info, please inform us.
 
 ---
 
-Pronunciation is unique for each spelling to avoid ambiguities which exist in English & other similar languages. Long & short vowel sounds are not compulsory, users can freely emphasize certain part of a word, depend on situation. 
-
-
+Pronunciation is unique for each spelling to avoid ambiguities which exist in English & other similar languages. Long & short vowel sounds are considered the same, eg: [ɪ] (short) & [iː] (long) are the same so that our users can pronounce any word by simply looking at the spelling alone. It will be easier for our users!
 
 Basic words & meaning. Please use word with simpler pronunciation for commonly used word: [常用词 Common_word](常用词_Common_word.md)
 
-|           | A<br/>啊       | E<br/>婀娜<br/>[ə]<br/> | I<br/>衣服        | O<br/>哦                     | U<br/>乌鸦                       |
-|:---------:|:-------------:|:---------------------:|:---------------:|:---------------------------:|:------------------------------:|
-| B         | BA<br/>八千     | BE                    | BI<br/>逼迫       | BO                          | BU                             |
-| ??BH      | BHA           | BHE<br/>              | BHI             | BHO                         | BHU                            |
-| BR        | BRA           | BRE                   | BRI             | BRO                         | BRU                            |
-| C         | CA<br/>擦鞋     | CE                    | CI<br/>瑕疵       | CO                          | CU<br/>粗细                      |
-| CH        | CHA<br/>叉子    | CHE<br/>车子            | CHI<br/>吃饭      | CHO                         | CHU<br/>出门                     |
-| D         | DA<br/>搭车     | DE                    | DI<br/>低调       | DO                          | DU<br/>都市                      |
-| ??DH      | DHA<br/>dadah | DHE                   | DHI             | DHO                         | DHU<br/>Dubai                  |
-| DR        | DRA           | DRE                   | DRI             | DRO                         | DRU                            |
-| F         | FA<br/>发财     | FE                    | FI              | FO                          | FU<br/>肤质                      |
-| FR        | FRA           | FRE                   | FRI             | FRO                         | FRU                            |
-| G         | GA            | GE                    | GI<br/>"Giggle" | GO                          | GU                             |
-| ??GH      | GHA<br/>咖喱    | GHE<br/>歌曲            | GHI             | GHO                         | GHU<br/>估计                     |
-| GR        | GRA           | GRE                   | GRI             | GRO                         | GRU                            |
-| H         | HA<br/>哈哈     | HE<br/>喝水             | HI              | HO                          | HU                             |
-| J         | ~~JA=ZA~~     | ~~JE =ZE~~            | JI<br/>鸡脚       | ~~JO~~                      | ~~JU~~                         |
-| JH        | JHA = Jazza   | JHE = ZHE<br/>jZERK   | JHI<br/>居住      | ~~JHO<br/>ZHO<br/>"joker"~~ | ~~JHU =<br/>ZHU<br/> "Jzuly"~~ |
-| K         | KA            | KE<br/>科学             | KI              | KO                          | KU<br/>哭泣                      |
-| KR        | KRA           | KRE                   | KRI             | KRO                         | KRU                            |
-| L         | LA            | LE                    | LI<br/>力量       | LO                          | LU                             |
-| LH        | ~~LHA = LA~~  | ~~LHE = LE~~          | LHI<br/>律师      | ~~LHO = LO~~                | ~~LHU~~                        |
-| M         | MA<br/>妈咪     | ME                    | MI<br/>咪咪       | MO                          | MU                             |
-| N         | NA            | NE                    | NI              | NO                          | NU                             |
-| NH        | ~~NHA = NA~~  | ~~NHE = NE~~          | NHI<br/>女生      | ~~NHO = NO~~                | ~~NHU = NU~~                   |
-| NG        | NGA           | NGE                   | NGI             | NGO                         | NGU                            |
-| P         | PA<br/>趴下     | PE                    | PI<br/>批改       | PO                          | PU<br/>扑鼻香                     |
-| ~~?? PH~~ |               |                       | ~~PHI<br/>时间?~~ |                             |                                |
-| PR        | PRA           | PRE                   | PRI             | PRO                         | PRU                            |
-| Q         | ~~QA =CHA~~   | ~~QE =CHE~~           | QI<br/>七百       | ~~QO =CO/KO~~               | ~~QU =CHU~~                    |
-| QH        | ~~QHA = CHA~~ | ~~QHA = CHE~~         | QHI<br/>屈原      | ~~QHO = CHO~~               | ~~QHU = CHO~~                  |
-| R         | RA            | RE                    | RI              | RO                          | RU                             |
-| T         | TA<br/>他们     | TE                    | TI<br/>梯田       | TO                          | TU<br/>突发                      |
-| TH        | THA           | THE                   | THI             | THO                         | THU                            |
-| TR        | TRA           | TRE                   | TRI             | TRO                         | TRU                            |
-| V         | VA            | VE                    | VI              | VO                          | VU                             |
-| W         | WA            | WE                    | WI              | WO                          | WU = U                         |
-| X         | XA<br/>撒娇     | XE                    | XI<br/> 希望      | XO                          | XU<br/>苏醒                      |
-| XH (SH)   | XHA<br/>沙发    | XHE<br/>奢华            | XHI<br/>虚弱      | XHO                         | XHU<br/>书包                     |
-| XT (ST)   | XTA           | XTE                   | XTI             | XTO                         | XTU                            |
-| XP (SP)   | XPA           | XPE                   | XPI             | XPO                         | XPU                            |
-| Y         | YA<br/>鸭蛋     | YE<br/>耶稣             | YI<br/>衣服       | YO                          | YU/YIU                         |
-| YH        |               |                       | YHI<br/>淤青      |                             |                                |
-| Z         | ZA<br/>扎辫     | ZE                    | ZI<br/>姿势       | ZO                          | ZU<br/>租房                      |
-| ZH        | ZHA<br/>渣子    | ZHE<br/>遮盖            | ZHI<br/>芝麻      | ZHO                         | ZHU<br/>珠宝                     |
+|                     | A<br/>啊                         | I<br/>衣服                     | E<br/>婀娜                | O<br/>哦                        | U<br/>乌鸦                       |
+|:-------------------:|:-------------------------------:|:----------------------------:|:-----------------------:|:------------------------------:|:------------------------------:|
+| P<br/>[🔊](P.mp3)   | PA<br/>趴下                       | PI<br/>批改                    | PE                      | PO                             | PU<br/>扑鼻香                     |
+| B<br/>[🔊](B.mp3)   | BA<br/>八千<br/>[bʌ]<br/>"bu"cket | BI<br/>逼迫<br/>[bɪ]<br/>"bi"t | BE<br/>[bə]<br/>em"be"r | BO<br/>[bɔː]<br/>"boa"rd       | BU<br/>布料<br/>[bʊ]<br/>"boo"k  |
+| BH<br/>[🔊](BH.mp3) | BHA                             | BHI                          | BHE                     | BHO                            | BHU                            |
+| T                   | TA<br/>他们                       | TI<br/>梯田                    | TE                      | TO                             | TU<br/>突发                      |
+| F                   | FA<br/>发财                       | FI                           | FE                      | FO<br/>佛光<br/>[fɔː]<br/>"fou"r | FU<br/>肤质                      |
+| TF                  | TFA<br/>[θʌ]<br/>"thu"mb        | TFI                          | TFE<br/>                | THO                            | THU                            |
+| D                   | DA<br/>搭车                       | DI<br/>低调                    | DE<br/>嘚马踏地             | DO                             | DU<br/>都市                      |
+| ??DH                | DHA<br/>dadah                   | DHI                          | DHE                     | DHO                            | DHU<br/>Dubai                  |
+| V                   | VA                              | VI                           | VE                      | VO                             | VU                             |
+| W                   | WA                              | WI                           | WE                      | WO                             | WU = U                         |
+| K                   | KA                              | KI                           | KE<br/>科学               | KO                             | KU<br/>哭泣                      |
+| G                   | GA                              | GI<br/>"Giggle"              | GE                      | GO                             | GU                             |
+| ??GH                | GHA<br/>咖喱                      | GHI                          | GHE<br/>歌曲              | GHO                            | GHU<br/>估计                     |
+| C                   | CA<br/>擦鞋                       | CI<br/>瑕疵                    | CE<br/>策略               | ~~CO=QO~~                      | CU<br/>粗细                      |
+| CH                  | CHA<br/>叉子<br/>[tʂʰa]           | CHI<br/>吃饭                   | CHE<br/>车子              | ~~CHO=QHO~~                    | CHU<br/>出门                     |
+| Q                   | ~~QA =CHA~~                     | QI<br/>七十                    | ~~QE =CHE~~             | QO<br/>CO粗粗<br/>[cɒ]           | ~~QU =CHU~~                    |
+| QH                  | ~~QHA = CHA~~                   | QHI<br/>屈原                   | ~~QHA = CHE~~           | QHO<br/> [tʃɒ]<br/>"cho"ck     | ~~QHU = CHO~~                  |
+| J                   | ~~JA=ZA~~                       | JI<br/>鸡脚<br/>"jee"p         | ~~JE =ZE~~              | ~~JO~~                         | ~~JU~~                         |
+| JH                  | JHA = Jazza                     | JHI<br/>居住                   | JHE = ZHE<br/>jZERK     | ~~JHO<br/>ZHO<br/>"joker"~~    | ~~JHU =<br/>ZHU<br/> "Jzuly"~~ |
+| Z                   | ZA<br/>扎辫                       | ZI<br/>姿势                    | ZE                      | ZO                             | ZU<br/>租房                      |
+| ZH                  | ZHA<br/>渣子                      | ZHI<br/>芝麻                   | ZHE<br/>遮盖              | ZHO                            | ZHU<br/>珠宝                     |
+| R                   | RA                              | RI                           | RE                      | RO                             | RU                             |
+| L                   | LA                              | LI<br/>力量                    | LE                      | LO                             | LU                             |
+| LH                  | ~~LHA = LA~~                    | LHI<br/>律师                   | ~~LHE = LE~~            | ~~LHO = LO~~                   | ~~LHU~~                        |
+| Y                   | YA<br/>鸭蛋                       | YI<br/>衣服                    | YE<br/>耶稣               | YO                             | YU/YIU                         |
+| YH                  |                                 | YHI<br/>淤青                   |                         |                                |                                |
+| M                   | MA<br/>妈咪                       | MI<br/>咪咪叫                   | ME                      | MO                             | MU                             |
+| N                   | NA                              | NI                           | NE                      | NO                             | NU                             |
+| NG                  | NGA                             | NGI                          | NGE                     | NGO                            | NGU                            |
+| NH                  | ~~NHA = NA~~                    | ~~NHI=NYUI<br/>女生~~          | ~~NHE = NE~~            | ~~NHO = NO~~                   | ~~NHU = NU~~                   |
+| BR                  | BRA                             | BRI                          | BRE                     | BRO                            | BRU                            |
+| DR                  | DRA                             | DRI                          | DRE                     | DRO                            | DRU                            |
+| FR                  | FRA                             | FRI<br/>[friː]<br/>"Free"    | FRE                     | FRO                            | FRU                            |
+| GR                  | GRA                             | GRI                          | GRE                     | GRO                            | GRU                            |
+| H                   | HA<br/>哈哈                       | HI                           | HE<br/>喝水               | HO                             | HU                             |
+| HZ                  | HZA                             | HZI                          | HZE                     | HZO                            | HZU                            |
+| KL                  | KLA                             | KLI                          | KLE                     | KLO                            | KLU                            |
+| KR                  | KRA                             | KRI                          | KRE                     | KRO                            | KRU                            |
+| ~~?? PH~~           |                                 | ~~PHI<br/>时间?~~              |                         |                                |                                |
+| PR                  | PRA                             | PRI                          | PRE                     | PRO                            | PRU                            |
+| S                   |                                 | SI=S<br/>丝绸                  |                         |                                |                                |
+| ~~SHI~~             |                                 | ~~SHI<br/>失败~~               |                         |                                |                                |
+| TR                  | TRA                             | TRI                          | TRE                     | TRO                            | TRU                            |
+| TZ                  |                                 | TZI<br/>日语"tsu"              |                         |                                |                                |
+| X                   | XA<br/>撒娇                       | XI<br/> 希望                   | XE                      | XO                             | XU<br/>苏醒                      |
+| XH (SH)             | XHA<br/>沙发                      | XHI<br/>虚弱<br/>"she"         | XHE<br/>奢华              | XHO                            | XHU<br/>书包                     |
+| XT (ST)             | XTA                             | XTI                          | XTE                     | XTO                            | XTU                            |
+| XP (SP)             | XPA                             | XPI                          | XPE                     | XPO                            | XPU                            |
 
 Continue: 
 
-| AE   | EA   | AI<br/>(我/Self) | IA                    | AO   | OA   |
-| ---- |:----:|:---------------:|:---------------------:|:----:| ---- |
-| BAE  | BEA  | BAI             | BIA                   | BAO  | BOA  |
-| BRAE | BREA | BRAI            | BRIA                  | BRAO | BROA |
-| CAE  | CEA  | CAI             | CIA                   | CAO  | COA  |
-| CHAE | CHEA | CHAI            | CHIA                  | CHAO | CHOA |
-| CRAE | CREA | CRAI            | CRIA                  | CRAO | CROA |
-| DAE  | DEA  | DAI             | DIA                   | DAO  | DOA  |
-| DRAE | DREA | DRAI            | DRIA                  | DRAO | DROA |
-| FAE  | FEA  | FAI             | FIA                   | FAO  | FOA  |
-| FRAE | FREA | FRAI            | FRIA                  | FRAO | FROA |
-| GAE  | GEA  | GAI             | GIA                   | GAO  | GOA  |
-| GRAE | GREA | GRAI            | GRIA                  | GRAO | GROA |
-| HAE  | HEA  | HAI             | HIA                   | HAO  | HOA  |
-| KAE  | KEA  | KAI             | KIA                   | KAO  | KOA  |
-| KRAE | KREA | KRAI            | KRIA                  | KRAO | KROA |
-| MAE  | MEA  | MAI             | MIA                   | MAO  | MOA  |
-| NAE  | MEA  | NAI             | NIA                   | NAO  | NOA  |
-| PAE  | PEA  | PAI             | PIA<br/>打(hit/strike) | PAO  | POA  |
-| PRAE | PREA | PRAI            | PRIA                  | PRAO | PROA |
-| RAE  | REA  | RAI             | RIA                   | RAO  | ROA  |
-| TAE  | TEA  | TAI             | TIA                   | TAO  | TOA  |
-| THAE | THEA | THAI            | THIA                  | THAO | THOA |
-| TRAE | TREA | TRAI            | TRIA                  | TRAO | TROA |
-| VAE  | VEA  | VAI             | VIA                   | VAO  | VOA  |
-| WAE  | WEA  | WAI             | WIA                   | WAO  | WOA  |
-| XAE  | XEA  | XAI             | XIA                   | XAO  | XOA  |
-| XHAE | XHEA | XHAI            | XHIA                  | XHAO | XHOA |
-| XTAE | XTEA | XTAI            | XTIA                  | XTAO | XTOA |
-| XPAE | XPEA | XPAI            | XPIA                  | XPAO | XPOA |
-| YAE  | YEA  | YAI             | YIA                   | YAO  | YOA  |
-| ZAE  | ZEA  | ZAI             | ZIA                   | ZAO  | ZOA  |
-| ZHAE | ZHEA | ZHAI            | ZHIA                  | ZHAO | ZHOA |
+| AE   | EA   | AI   | IA                    | AO   | OA   |
+| ---- |:----:|:----:|:---------------------:|:----:| ---- |
+| BAE  | BEA  | BAI  | BIA                   | BAO  | BOA  |
+| BRAE | BREA | BRAI | BRIA                  | BRAO | BROA |
+| CAE  | CEA  | CAI  | CIA                   | CAO  | COA  |
+| CHAE | CHEA | CHAI | CHIA                  | CHAO | CHOA |
+| CRAE | CREA | CRAI | CRIA                  | CRAO | CROA |
+| DAE  | DEA  | DAI  | DIA                   | DAO  | DOA  |
+| DRAE | DREA | DRAI | DRIA                  | DRAO | DROA |
+| FAE  | FEA  | FAI  | FIA                   | FAO  | FOA  |
+| FRAE | FREA | FRAI | FRIA                  | FRAO | FROA |
+| GAE  | GEA  | GAI  | GIA                   | GAO  | GOA  |
+| GRAE | GREA | GRAI | GRIA                  | GRAO | GROA |
+| HAE  | HEA  | HAI  | HIA                   | HAO  | HOA  |
+| KAE  | KEA  | KAI  | KIA                   | KAO  | KOA  |
+| KRAE | KREA | KRAI | KRIA                  | KRAO | KROA |
+| MAE  | MEA  | MAI  | MIA                   | MAO  | MOA  |
+| NAE  | MEA  | NAI  | NIA                   | NAO  | NOA  |
+| PAE  | PEA  | PAI  | PIA<br/>打(hit/strike) | PAO  | POA  |
+| PRAE | PREA | PRAI | PRIA                  | PRAO | PROA |
+| RAE  | REA  | RAI  | RIA                   | RAO  | ROA  |
+| TAE  | TEA  | TAI  | TIA                   | TAO  | TOA  |
+| THAE | THEA | THAI | THIA                  | THAO | THOA |
+| TRAE | TREA | TRAI | TRIA                  | TRAO | TROA |
+| VAE  | VEA  | VAI  | VIA                   | VAO  | VOA  |
+| WAE  | WEA  | WAI  | WIA                   | WAO  | WOA  |
+| XAE  | XEA  | XAI  | XIA                   | XAO  | XOA  |
+| XHAE | XHEA | XHAI | XHIA                  | XHAO | XHOA |
+| XTAE | XTEA | XTAI | XTIA                  | XTAO | XTOA |
+| XPAE | XPEA | XPAI | XPIA                  | XPAO | XPOA |
+| YAE  | YEA  | YAI  | YIA                   | YAO  | YOA  |
+| ZAE  | ZEA  | ZAI  | ZIA                   | ZAO  | ZOA  |
+| ZHAE | ZHEA | ZHAI | ZHIA                  | ZHAO | ZHOA |
 
 Continue:
 
-|     | AU   | UA   | EI<br/>杯子<br/>[eɪ]<br/>pl"a"y | IE   | EO   | OE   |
-| --- | ---- | ---- | ----------------------------- | ---- | ---- | ---- |
-| B   | BAU  | BUA  | BEI                           | BIE  | BEO  | BOE  |
-| BR  | BRAU | BRUA | BREI                          | BRIE | BREO | BROE |
-| C   | CAU  | CUA  | CEI                           | CIE  | CEO  | COE  |
-| CH  | CHAU | CHUA | CHEI                          | CHIE | CHEO | CHOE |
-| CR  | CRAU | CRUA | CREI                          | CRIE | CREO | CROE |
-| D   | DAU  | DUA  | DEI                           | DIE  | DEO  | DOE  |
-| DR  | DRAU | DRUA | DREI                          | DRIE | DREO | DROE |
-| F   | FAU  | FUA  | FEI                           | FIE  | FEO  | FOE  |
-| FR  | FRAU | FRUA | FREI                          | FRIE | FREO | FROE |
-| G   | GAU  | GUA  | GEI                           | GIE  | GEO  | GOE  |
-| GR  | GRAU | GRUA | GREI                          | GRIE | GREO | GROE |
-| H   | HAU  | HUA  | HEI                           | HIE  | HEO  | HOE  |
-| K   | KAU  | KUA  | KEI                           | KIE  | KEO  | KOE  |
-| KR  | KRAU | KRUA | KREI                          | KRIE | KREO | KROE |
-| M   | MAU  | MUA  | MEI                           | MIE  | MEO  | MOE  |
-| N   | NAU  | NUA  | NEI                           | NIE  | NEO  | NOE  |
-| NG  | NGAU | NGUA | NGEI                          | NGIE | NGEO | NGOE |
-| P   | PAU  | PUA  | PEI                           | PIE  | PEO  | POE  |
-| PR  | PRAU | PRUA | PREI                          | PRIE | PREO | PROE |
-| R   | RAU  | RUA  | REI                           | RIE  | REO  | ROE  |
-| T   | TAU  | TUA  | TEI                           | TIE  | TEO  | TOE  |
-| TH  | THAU | THUA | THEI                          | THIE | THEO | THOE |
-| TR  | TRAU | TRUA | TREI                          | TRIE | TREO | TROE |
-| V   | VAU  | VUA  | VEI                           | VIE  | VEO  | VOE  |
-| W   | WAU  | WUA  | WEI                           | WIE  | WEO  | WOE  |
-| X   | XAU  | XUA  | XEI                           | XIE  | XEO  | XOE  |
-| XH  | XHAU | XHUA | XHEI                          | XHIE | XHEO | XHOE |
-| XT  | XTAU | XTUA | XTEI                          | XTIE | XTEO | XTOE |
-| XP  | XPAU | XPUA | XPEI                          | XPIE | XPEO | XPOE |
-| Y   | YAU  | YUA  | YEI                           | YIE  | YEO  | YOE  |
-| Z   | ZAU  | ZUA  | ZEI                           | ZIE  | ZEO  | ZOE  |
-| ZH  | ZHAU | ZHUA | ZHEI                          | ZHIE | ZHEO | ZHOE |
+|     | AU   | UA   | EI<br/>[eɪ]                    | IE   | EO   | OE   |
+| --- | ---- | ---- | ------------------------------ | ---- | ---- | ---- |
+| B   | BAU  | BUA  | BEI<br/>杯子<br/>[beɪ]<br/>"bay" | BIE  | BEO  | BOE  |
+| BR  | BRAU | BRUA | BREI                           | BRIE | BREO | BROE |
+| C   | CAU  | CUA  | CEI                            | CIE  | CEO  | COE  |
+| CH  | CHAU | CHUA | CHEI                           | CHIE | CHEO | CHOE |
+| CR  | CRAU | CRUA | CREI                           | CRIE | CREO | CROE |
+| D   | DAU  | DUA  | DEI                            | DIE  | DEO  | DOE  |
+| DR  | DRAU | DRUA | DREI                           | DRIE | DREO | DROE |
+| F   | FAU  | FUA  | FEI                            | FIE  | FEO  | FOE  |
+| FR  | FRAU | FRUA | FREI                           | FRIE | FREO | FROE |
+| G   | GAU  | GUA  | GEI                            | GIE  | GEO  | GOE  |
+| GR  | GRAU | GRUA | GREI                           | GRIE | GREO | GROE |
+| H   | HAU  | HUA  | HEI                            | HIE  | HEO  | HOE  |
+| K   | KAU  | KUA  | KEI                            | KIE  | KEO  | KOE  |
+| KR  | KRAU | KRUA | KREI                           | KRIE | KREO | KROE |
+| M   | MAU  | MUA  | MEI                            | MIE  | MEO  | MOE  |
+| N   | NAU  | NUA  | NEI                            | NIE  | NEO  | NOE  |
+| NG  | NGAU | NGUA | NGEI                           | NGIE | NGEO | NGOE |
+| P   | PAU  | PUA  | PEI                            | PIE  | PEO  | POE  |
+| PR  | PRAU | PRUA | PREI                           | PRIE | PREO | PROE |
+| R   | RAU  | RUA  | REI                            | RIE  | REO  | ROE  |
+| T   | TAU  | TUA  | TEI                            | TIE  | TEO  | TOE  |
+| TH  | THAU | THUA | THEI                           | THIE | THEO | THOE |
+| TR  | TRAU | TRUA | TREI                           | TRIE | TREO | TROE |
+| V   | VAU  | VUA  | VEI                            | VIE  | VEO  | VOE  |
+| W   | WAU  | WUA  | WEI                            | WIE  | WEO  | WOE  |
+| X   | XAU  | XUA  | XEI                            | XIE  | XEO  | XOE  |
+| XH  | XHAU | XHUA | XHEI                           | XHIE | XHEO | XHOE |
+| XT  | XTAU | XTUA | XTEI                           | XTIE | XTEO | XTOE |
+| XP  | XPAU | XPUA | XPEI                           | XPIE | XPEO | XPOE |
+| Y   | YAU  | YUA  | YEI                            | YIE  | YEO  | YOE  |
+| Z   | ZAU  | ZUA  | ZEI                            | ZIE  | ZEO  | ZOE  |
+| ZH  | ZHAU | ZHUA | ZHEI                           | ZHIE | ZHEO | ZHOE |
 
 Continue:
 
-|     | EU   | UE   | IO   | OI   | IU                 | UI   |
-| --- | ---- | ---- | ---- | ---- | ------------------ | ---- |
-| B   | BEU  | BUE  | BIO  | BOI  | BIU<br/>射击 (shoot) | BUI  |
-| BR  | BREU | BRUE | BRIO | BROI | BRIU               | BRUI |
-| C   | CEU  | CUE  | CIO  | COI  | CIU                | CUI  |
-| CH  | CHEU | CHUE | CHIO | CHOI | CHIU               | CHUI |
-| CR  | CREU | CRUE | CRIO | CROI | CRIU               | CRUI |
-| D   | DEU  | DUE  | DIO  | DOI  | DIU                | DUI  |
-| DR  | DREU | DRUE | DRIO | DROI | DRIU               | DRUI |
-| F   | FEU  | FUE  | FIO  | FOI  | FIU                | FUI  |
-| FR  | FREU | FRUE | FRIO | FROI | FRIU               | FRUI |
-| G   | GEU  | GUE  | GIO  | GOI  | GIU                | GUI  |
-| GR  | GREU | GRUE | GRIO | GROI | GRIU               | GRUI |
-| H   | HEU  | HUE  | HIO  | HOI  | HIU                | HUI  |
-| K   | KEU  | KUE  | KIO  | KOI  | KIU                | KUI  |
-| KR  | KREU | KRUE | KRIO | KROI | KRIU               | KRUI |
-| M   | MEU  | MUE  | MIO  | MOI  | MIU                | MUI  |
-| N   | NEU  | NUE  | NIO  | NOI  | NIU                | NUI  |
-| NG  | NGEU | NGUE | NGIO | NGOI | NGIU               | NGUI |
-| P   | PEU  | PUE  | PIO  | POI  | PIU                | PUI  |
-| PR  | PREU | PRUE | PRIO | PROI | PRIU               | PRUI |
-| R   | REU  | RUE  | RIO  | ROI  | RIU                | RUI  |
-| T   | TEU  | TUE  | TIO  | TOI  | TIU                | TUI  |
-| TH  | THEU | THUE | THIO | THOI | THIU               | THUI |
-| TR  | TREU | TRUE | TRIO | TROI | TRIU               | TRUI |
-| V   | VEU  | VUE  | VIO  | VOI  | VIU                | VUI  |
-| W   | WEU  | WUE  | WIO  | WOI  | WIU                | WUI  |
-| X   | XEU  | XUE  | XIO  | XOI  | XIU                | XUI  |
-| XH  | XHEU | XHUE | XHIO | XHOI | XHIU               | XHUI |
-| XT  | XTEU | XTUE | XTIO | XTOI | XTIU               | XTUI |
-| XP  | XPEU | XPUE | XPIO | XPOI | XPIU               | XPUI |
-| Y   | YEU  | YUE  | YIO  | YOI  | YIU                | YUI  |
-| Z   | ZEU  | ZUE  | ZIO  | ZOI  | ZIU                | ZUI  |
-| ZH  | ZHEU | ZHUE | ZHIO | ZHOI | ZHIU               | ZHUI |
+|     | EU   | UE   | IO   | OI   | IU                 | UI          |
+| --- | ---- | ---- | ---- | ---- | ------------------ | ----------- |
+| B   | BEU  | BUE  | BIO  | BOI  | BIU<br/>射击 (shoot) | BUI         |
+| BR  | BREU | BRUE | BRIO | BROI | BRIU               | BRUI        |
+| C   | CEU  | CUE  | CIO  | COI  | CIU                | CUI         |
+| CH  | CHEU | CHUE | CHIO | CHOI | CHIU               | CHUI        |
+| CR  | CREU | CRUE | CRIO | CROI | CRIU               | CRUI        |
+| D   | DEU  | DUE  | DIO  | DOI  | DIU                | DUI         |
+| DR  | DREU | DRUE | DRIO | DROI | DRIU               | DRUI        |
+| F   | FEU  | FUE  | FIO  | FOI  | FIU                | FUI         |
+| FR  | FREU | FRUE | FRIO | FROI | FRIU               | FRUI        |
+| G   | GEU  | GUE  | GIO  | GOI  | GIU                | GUI         |
+| GR  | GREU | GRUE | GRIO | GROI | GRIU               | GRUI        |
+| H   | HEU  | HUE  | HIO  | HOI  | HIU                | HUI         |
+| K   | KEU  | KUE  | KIO  | KOI  | KIU                | KUI         |
+| KR  | KREU | KRUE | KRIO | KROI | KRIU               | KRUI        |
+| M   | MEU  | MUE  | MIO  | MOI  | MIU                | MUI         |
+| N   | NEU  | NUE  | NIO  | NOI  | NIU                | NUI         |
+| NY  |      |      |      |      |                    | NYUI<br/>女生 |
+| NG  | NGEU | NGUE | NGIO | NGOI | NGIU               | NGUI        |
+| P   | PEU  | PUE  | PIO  | POI  | PIU                | PUI         |
+| PR  | PREU | PRUE | PRIO | PROI | PRIU               | PRUI        |
+| R   | REU  | RUE  | RIO  | ROI  | RIU                | RUI         |
+| T   | TEU  | TUE  | TIO  | TOI  | TIU                | TUI         |
+| TH  | THEU | THUE | THIO | THOI | THIU               | THUI        |
+| TR  | TREU | TRUE | TRIO | TROI | TRIU               | TRUI        |
+| V   | VEU  | VUE  | VIO  | VOI  | VIU                | VUI         |
+| W   | WEU  | WUE  | WIO  | WOI  | WIU                | WUI         |
+| X   | XEU  | XUE  | XIO  | XOI  | XIU                | XUI         |
+| XH  | XHEU | XHUE | XHIO | XHOI | XHIU               | XHUI        |
+| XT  | XTEU | XTUE | XTIO | XTOI | XTIU               | XTUI        |
+| XP  | XPEU | XPUE | XPIO | XPOI | XPIU               | XPUI        |
+| Y   | YEU  | YUE  | YIO  | YOI  | YIU                | YUI         |
+| Z   | ZEU  | ZUE  | ZIO  | ZOI  | ZIU                | ZUI         |
+| ZH  | ZHEU | ZHUE | ZHIO | ZHOI | ZHIU               | ZHUI        |
 
 Continue:
 
-|     | OU   | UO   | IAN   | IANG   | UAN   | UANG                   |
-| --- | ---- | ---- | ----- | ------ | ----- |:----------------------:|
-| B   | BOU  | BUO  | BIAN  | BIANG  | BUAN  | BUANG                  |
-| BR  | BROU | BRUO | BRIAN | BRIANG | BRUAN | BRUANG                 |
-| C   | COU  | CUO  | CIAN  | CIANG  | CUAN  | CUANG                  |
-| CH  | CHOU | CHUO | CHIAN | CHIANG | CHUAN | CHUANG                 |
-| CR  | CROU | CRUO | CRIAN | CRIANG | CRUAN | CRUANG                 |
-| D   | DOU  | DUO  | DIAN  | DIANG  | DUAN  | DUANG<br/>有弹性 (bouncy) |
-| DR  | DROU | DRUO | DRIAN | DRIANG | DRUAN | DRUANG                 |
-| F   | FOU  | FUO  | FIAN  | FIANG  | FUAN  | FUANG                  |
-| FR  | FROU | FRUO | FRIAN | FRIANG | FRUAN | FRUANG                 |
-| G   | GOU  | GUO  | GIAN  | GIANG  | GUAN  | GUANG                  |
-| GR  | GROU | GRUO | GRIAN | GRIANG | GRUAN | GRUANG                 |
-| H   | HOU  | HUO  | HIAN  | HIANG  | HUAN  | HUANG                  |
-| K   | KOU  | KUO  | KIAN  | KIANG  | KUAN  | KUANG                  |
-| KR  | KROU | KRUO | KRIAN | KRIANG | KRUAN | KRUANG                 |
-| M   | MOU  | MUO  | MIAN  | MIANG  | MUAN  | MUANG                  |
-| N   | NOU  | NUO  | NIAN  | NIANG  | NUAN  | NUANG                  |
-| NG  | NGOU | NGUO | NGIAN | NGIANG | NGUAN | NGUANG                 |
-| P   | POU  | PUO  | PIAN  | PIANG  | PUAN  | PUANG                  |
-| PR  | PROU | PRUO | PRIAN | PRIANG | PRUAN | PRUANG                 |
-| R   | ROU  | RUO  | RIAN  | RIANG  | RUAN  | RUANG                  |
-| T   | TOU  | TUO  | TIAN  | TIANG  | TUAN  | TUANG                  |
-| TH  | THOU | THUO | THIAN | THIANG | THUAN | THUANG                 |
-| TR  | TROU | TRUO | TRIAN | TRIANG | TRUAN | TRUANG                 |
-| V   | VOU  | VUO  | VIAN  | VIANG  | VUAN  | VUANG                  |
-| W   | WOU  | WUO  | WIAN  | WIANG  | WUAN  | WUANG                  |
-| X   | XOU  | XUO  | XIAN  | XIANG  | XUAN  | XUANG                  |
-| XH  | XHOU | XHUO | XHIAN | XHIANG | XHUAN | XHUANG                 |
-| XT  | XTOU | XTUO | XTIAN | XTIANG | XTUAN | XTUANG                 |
-| XP  | XPOU | XPUO | XPIAN | XPIANG | XPUAN | XPUANG                 |
-| Y   | YOU  | YUO  | YIAN  | YIANG  | YUAN  | YUANG                  |
-| Z   | ZOU  | ZUO  | ZIAN  | ZIANG  | ZUAN  | ZUANG                  |
-| ZH  | ZHOU | ZHUO | ZHIAN | ZHIANG | ZHUAN | ZHUANG                 |
+|     | OU   | UO         | IAN   | IANG   | UAN   | UANG                   |
+| --- | ---- | ---------- | ----- | ------ | ----- |:----------------------:|
+| B   | BOU  | BUO<br/>波动 | BIAN  | BIANG  | BUAN  | BUANG                  |
+| BR  | BROU | BRUO       | BRIAN | BRIANG | BRUAN | BRUANG                 |
+| C   | COU  | CUO        | CIAN  | CIANG  | CUAN  | CUANG                  |
+| CH  | CHOU | CHUO       | CHIAN | CHIANG | CHUAN | CHUANG                 |
+| CR  | CROU | CRUO       | CRIAN | CRIANG | CRUAN | CRUANG                 |
+| D   | DOU  | DUO        | DIAN  | DIANG  | DUAN  | DUANG<br/>有弹性 (bouncy) |
+| DR  | DROU | DRUO       | DRIAN | DRIANG | DRUAN | DRUANG                 |
+| F   | FOU  | FUO        | FIAN  | FIANG  | FUAN  | FUANG                  |
+| FR  | FROU | FRUO       | FRIAN | FRIANG | FRUAN | FRUANG                 |
+| G   | GOU  | GUO        | GIAN  | GIANG  | GUAN  | GUANG                  |
+| GR  | GROU | GRUO       | GRIAN | GRIANG | GRUAN | GRUANG                 |
+| H   | HOU  | HUO        | HIAN  | HIANG  | HUAN  | HUANG                  |
+| K   | KOU  | KUO        | KIAN  | KIANG  | KUAN  | KUANG                  |
+| KR  | KROU | KRUO       | KRIAN | KRIANG | KRUAN | KRUANG                 |
+| M   | MOU  | MUO        | MIAN  | MIANG  | MUAN  | MUANG                  |
+| N   | NOU  | NUO        | NIAN  | NIANG  | NUAN  | NUANG                  |
+| NG  | NGOU | NGUO       | NGIAN | NGIANG | NGUAN | NGUANG                 |
+| P   | POU  | PUO        | PIAN  | PIANG  | PUAN  | PUANG                  |
+| PR  | PROU | PRUO       | PRIAN | PRIANG | PRUAN | PRUANG                 |
+| R   | ROU  | RUO        | RIAN  | RIANG  | RUAN  | RUANG                  |
+| T   | TOU  | TUO        | TIAN  | TIANG  | TUAN  | TUANG                  |
+| TH  | THOU | THUO       | THIAN | THIANG | THUAN | THUANG                 |
+| TR  | TROU | TRUO       | TRIAN | TRIANG | TRUAN | TRUANG                 |
+| V   | VOU  | VUO        | VIAN  | VIANG  | VUAN  | VUANG                  |
+| W   | WOU  | WUO        | WIAN  | WIANG  | WUAN  | WUANG                  |
+| X   | XOU  | XUO        | XIAN  | XIANG  | XUAN  | XUANG                  |
+| XH  | XHOU | XHUO       | XHIAN | XHIANG | XHUAN | XHUANG                 |
+| XT  | XTOU | XTUO       | XTIAN | XTIANG | XTUAN | XTUANG                 |
+| XP  | XPOU | XPUO       | XPIAN | XPIANG | XPUAN | XPUANG                 |
+| Y   | YOU  | YUO        | YIAN  | YIANG  | YUAN  | YUANG                  |
+| Z   | ZOU  | ZUO        | ZIAN  | ZIANG  | ZUAN  | ZUANG                  |
+| ZH  | ZHOU | ZHUO       | ZHIAN | ZHIANG | ZHUAN | ZHUANG                 |
 
 Continue:
 
@@ -462,40 +466,40 @@ Continue:
 
 Continue:
 
-|     | AN   | EN   | IN   | ON   | UN   |
-| --- | ---- | ---- | ---- | ---- | ---- |
-| B   | BAN  | BEN  | BIN  | BON  | BUN  |
-| BR  | BRAN | BREN | BRIN | BRON | BRUN |
-| C   | CAN  | CEN  | CIN  | CON  | CUN  |
-| CH  | CHAN | CHEN | CHIN | CHON | CHUN |
-| CR  | CRAN | CREN | CRIN | CRON | CRUN |
-| D   | DAN  | DEN  | DIN  | DON  | DUN  |
-| DR  | DRAN | DREN | DRIN | DRON | DRUN |
-| F   | FAN  | FEN  | FIN  | FON  | FUN  |
-| FR  | FRAN | FREN | FRIN | FRON | FRUN |
-| G   | GAN  | GEN  | GIN  | GON  | GUN  |
-| GR  | GRAN | GREN | GRIN | GRON | GRUN |
-| H   | HAN  | HEN  | HIN  | HON  | HUN  |
-| K   | KAN  | KEN  | KIN  | KON  | KUN  |
-| KR  | KRAN | KREN | KRIN | KRON | KRUN |
-| M   | MAN  | MEN  | MIN  | MON  | MUN  |
-| N   | NAN  | NEN  | NIN  | NON  | NUN  |
-| NG  | NGAN | NGEN | NGIN | NGON | NGUN |
-| P   | PAN  | PEN  | PIN  | PON  | PUN  |
-| PR  | PRAN | PREN | PRIN | PRON | PRUN |
-| R   | RAN  | REN  | RIN  | RON  | RUN  |
-| T   | TAN  | TEN  | TIN  | TON  | TUN  |
-| TH  | THAN | THEN | THIN | THON | THUN |
-| TR  | TRAN | TREN | TRIN | TRON | TRUN |
-| V   | VAN  | VEN  | VIN  | VON  | VUN  |
-| W   | WAN  | WEN  | WIN  | WON  | WUN  |
-| X   | XAN  | XEN  | XIN  | XON  | XUN  |
-| XH  | XHAN | XHEN | XHIN | XHON | XHUN |
-| XT  | XTAN | XTEN | XTIN | XTON | XTUN |
-| XP  | XPAN | XPEN | XPIN | XPON | XPUN |
-| Y   | YAN  | YEN  | YIN  | YON  | YUN  |
-| Z   | ZAN  | ZEN  | ZIN  | ZON  | ZUN  |
-| ZH  | ZHAN | ZHEN | ZHIN | ZHON | ZHUN |
+|     | AN   | EN              | IN   | ON   | UN   |
+| --- | ---- | --------------- | ---- | ---- | ---- |
+| B   | BAN  | BEN<br/>奔跑<br/> | BIN  | BON  | BUN  |
+| BR  | BRAN | BREN            | BRIN | BRON | BRUN |
+| C   | CAN  | CEN             | CIN  | CON  | CUN  |
+| CH  | CHAN | CHEN            | CHIN | CHON | CHUN |
+| CR  | CRAN | CREN            | CRIN | CRON | CRUN |
+| D   | DAN  | DEN             | DIN  | DON  | DUN  |
+| DR  | DRAN | DREN            | DRIN | DRON | DRUN |
+| F   | FAN  | FEN             | FIN  | FON  | FUN  |
+| FR  | FRAN | FREN            | FRIN | FRON | FRUN |
+| G   | GAN  | GEN             | GIN  | GON  | GUN  |
+| GR  | GRAN | GREN            | GRIN | GRON | GRUN |
+| H   | HAN  | HEN             | HIN  | HON  | HUN  |
+| K   | KAN  | KEN             | KIN  | KON  | KUN  |
+| KR  | KRAN | KREN            | KRIN | KRON | KRUN |
+| M   | MAN  | MEN             | MIN  | MON  | MUN  |
+| N   | NAN  | NEN             | NIN  | NON  | NUN  |
+| NG  | NGAN | NGEN            | NGIN | NGON | NGUN |
+| P   | PAN  | PEN             | PIN  | PON  | PUN  |
+| PR  | PRAN | PREN            | PRIN | PRON | PRUN |
+| R   | RAN  | REN             | RIN  | RON  | RUN  |
+| T   | TAN  | TEN             | TIN  | TON  | TUN  |
+| TH  | THAN | THEN            | THIN | THON | THUN |
+| TR  | TRAN | TREN            | TRIN | TRON | TRUN |
+| V   | VAN  | VEN             | VIN  | VON  | VUN  |
+| W   | WAN  | WEN             | WIN  | WON  | WUN  |
+| X   | XAN  | XEN             | XIN  | XON  | XUN  |
+| XH  | XHAN | XHEN            | XHIN | XHON | XHUN |
+| XT  | XTAN | XTEN            | XTIN | XTON | XTUN |
+| XP  | XPAN | XPEN            | XPIN | XPON | XPUN |
+| Y   | YAN  | YEN             | YIN  | YON  | YUN  |
+| Z   | ZAN  | ZEN             | ZIN  | ZON  | ZUN  |
+| ZH  | ZHAN | ZHEN            | ZHIN | ZHON | ZHUN |
 
 Continue:
 
