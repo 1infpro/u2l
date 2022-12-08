@@ -1,20 +1,34 @@
-Let's have fun & build vocabulary for our language. Suggestions are put under bullet list (point form). We will keep adding new constructive suggestion from you guys.
+🧡 Let's have fun & build vocabulary for our language. Suggestions are put under bullet list (point form). We will keep adding new constructive suggestion from you guys.
 
 ---
 
-If you want to search for a certain keyword, you may use hashtag. Eg: #color 
+💛 If you want to search for a specific keyword, you may use hashtag. Eg: #color 
 
 ---
 
-数字 Number
+into
+
+![](pic/into.jpg)
+
+test
+
+![](pic/ipapronunciation.png)
+
+---
+
+
+
+数字 #Number
 
 算数 Calculate/Compute
+
+- `kira`
 
 - `kaoa`
 
 - `suana`
 
-- `kira`
+- 
 
 - 
 
@@ -22,132 +36,7 @@ If you want to search for a certain keyword, you may use hashtag. Eg: #color
 
 - 算数+学科/领域 (Calculate + Subject/Field)
 
-(一) One
-
-- `an` 
-  
-  - `n` for odd number (单数)
-
-- `wan`
-
-- 
-
-`am` = (二) Two
-
-- `m` for even number (双数)
-
-`en` = (三) Three
-
-- `san`
-
-`em` = (四) Four
-
-`in` = (五) Five
-
-`im` = (六) Six
-
-`on` = (七) Seven
-
-`om` = (八) Eight
-
-`un` = (九) Nine
-
-`um` = (十) Ten
-
-`um-an` = (十一) Eleven
-
-`amum-an` = (二十一) Twenty-one
-
-
-
-|     | Word | Meaning |
-|:---:|:----:| ------- |
-| a   | an   | 1       |
-|     | am   | 2       |
-| e   | en   | 3       |
-|     | em   | 4       |
-| i   | in   | 5       |
-|     | im   | 6       |
-| o   | on   | 7       |
-|     | om   | 8       |
-| u   | un   | 9       |
-|     | um   | 10      |
-
-
-
-`ut` = (零) Zero
-
-`an vam` = (一百) One hundred = 100 = 1x10^2 = 1e2 
-
-- (One e Two = `an` + `v` + `am`)
-
-`an vanvam` = One googol = 1x10^100 = 1e100 = 1e(1e2)
-
-`en ven` = (三千) One Thousand = 3x10^3 = 3e3
-
-`am vem` = (两万) Twenty Thousand = 2x10^4 = 2e4
-
-`an vananan` = One septemtrigintillion = 1e111
-
-`an vam amum-im` = 126
-
-`an vanamim` = One duoquardragintillion = 1e126
-
-`in ven` = 5e3 = 5000
-
-
-
----
-
-| 词 Word | 意思 Meaning       |
-| ------ | ---------------- |
-| `ar`   | All              |
-| `er`   | 3/4              |
-| `ir`   | Half             |
-| `or`   | 1/4, One-quarter |
-| `ur`   | Zero             |
-
-一半 Half
-
-- `ir`
-
-- `haf`
-
-- `ban`
-
-- 
-
-加 Addition, Plus
-
-- `ad`
-
-- `zia`
-
-减 Minus
-
-乘 Multiplication
-
-除 Division
-
-大数字 Big numbers: 
-
-- https://simple.wikipedia.org/wiki/Names_of_large_numbers
-
-第一 First place, Number one
-
-- `anu` = Position of One (`an` + `u`)
-
-最后 Last
-
-- 末端End
-
-负一 Negative one = -1
-
-- (Minus + One)
-
-Zero point zero one = 0.01
-
-分数 Fraction
+Fraction
 
 - (1 over 2)
 
@@ -169,9 +58,9 @@ Equal = Same
 
 🔴 Red (adjective)
 
-- `red`
+- `re` => `red`
 
-- `eded`
+- `ed` => `eded`
 
 - `rod`
 
@@ -189,6 +78,8 @@ Equal = Same
 - `bud`
 
 - `brud`
+
+- `laned`
 
 - `odid`
 
@@ -224,15 +115,15 @@ Pink
 
 - `rexiwad` (Red + White)
 
-Brown = 🔴 + ⚫ 
+Brown 
 
 - `rexiwad`(Red + Black)
 
 Yellow-brown = ⚫ + 🟡
 
-Rainbow = (7 + Color)
+Rainbow 🌈
 
-- 
+- `onreyebui` (7 + Color)
 
 ---
 
@@ -294,135 +185,9 @@ Rainbow = (7 + Color)
 
 ---
 
-解剖学 Anatomy:
+解剖学 #Anatomy
 
-**
-
-身体 Body:
-
-- Up + Body = Climb
-
-- Down + Body = Descend
-
-
-
-眼 Eye:
-
-- `olo` 
-  - `olois` = Two eyes (both)
-  - `oloa` = To see (verb)
-- `yen`
-  
-  
-
-耳朵 Ear
-
-- `de`
-
-- `yier`
-
-- `er`
-  
-  - 
-
-鼻子 Nose
-
-- `no`
-
-
-
-嘴唇 Lips
-
-- Flesh + Mouth
-
-- Mouth +　Flesh
-
-- 
-
-xhe = 舌头 Tongue:
-
-* `xhea` = 舔 Lick
-
-* xhemua = 舌吻 To French-kiss (Tongue + Mouth)
-
-* To taste (Tongue + Food)
-
-* 
-
-头部  Head 
-
-- (Top + Body)
-
-脸部  Face (Front + Head)
-
-- 手 Hand
-
-- `ha`
-
-- `shou`
-
-- Shake hand (握hold + hand)
-
-- Raise your hand (Up + hand)
-
-- 
-
-上肢 Arm 
-
-- (Up + limbs)
-
-- 
-
-脚 Leg
-
-- Fast + Leg = Run
-
-- Slow + Leg = Walk
-
-- Up + Leg = Jump
-
-- 
-
-下肢
-
-- Down/Lower + limbs
-
-- 
-
-骨头 Bone:
-
-- 牙齿 Teeth:
-
-- = 骨头+嘴巴 Teeth (Bone + Mouth)
-
-- 
-
-臀部 Buttock
-
-生殖器 Genital
-
-- 尾巴 Tail （alien, animal)
-* Between + Buttock
-
-* 
-
-毛发 Hair:
-
-- 头发  Head + Hair = Hair (on top)
-
-- 阴毛  Genital + Hair
-
-- 腋毛  Arm + Hair = Armpit hair
-
-- 
-
-血液 Blood
-
-- (Red + Liquid)
-
-- (Red + Human + Liquid)
-
-- 
+内脏 internal organs
 
 心脏 Heart
 
@@ -434,17 +199,27 @@ xhe = 舌头 Tongue:
 
 肝脏 Liver
 
-- 肺脏 Lung
+- (Human + Chemical)
 
-- 
+肺脏 Lung
+
+- (Human + Bag)
 
 脾脏 
 
-- 肾脏 Kidney
+肾脏 Kidney
 
 - (Human + Filter)
 
 - 
+
+尿 Urine
+
+- (Human + Dirt + Liquid)
+
+粪便 Poop
+
+- (Human + Dirt)
 
 ---
 
@@ -458,18 +233,13 @@ Neither
 
 请求, 命令, 给意见的时候 Requesting, Ordering, Giving advise:
 
-我愿意 I'm willing to
+需要 Need
 
-希望 hope
+- = Lack?
 
-可以 You could
+想要 Want (Desire)
 
-应该 You should
-
-必须/一定要 You must
-
-<style>
-</style>
+- `deza` 
 
 | 请求词   | 意思                 |
 | ----- | ------------------ |
@@ -481,7 +251,7 @@ Neither
 
 ---
 
-衣服 Clothing
+衣服 Clothing = Cover
 
 * Protect + Body
 
@@ -504,51 +274,79 @@ Neither
 
 裤子  Pant
 
-- Inner + Pant = 内裤 Panties
+Inner + Pant = 内裤 Panties
 
-- 
-
-鞋子  Shoes
-
+- 鞋子  Shoes
 * 保护+脚  Protect + Foot
 
 * 
 
 ---
 
-情绪 Emotion:
+情绪 #Emotion
 
-1. Movement + Energy + Human
+- (Living + Energy + Movement)
 
-2. emo
-   
-   - e- is prefix for numbers right?
+- (Energy + Movement)
 
-爱 Love:
+- (Movement + Energy + Human)
 
-- 一体 + 私我 One + Self/I/me
-
-- 無 + 私我 Without/No + Self/I/me
+- `emo`
 
 - 
 
-喜欢  Like:
+愉快 Joy
 
-- Attract + Emotion
+- (Smooth + Emotion)
+
+- 
+
+开心,释怀 Happy:
+
+- (Expand/Open + Emotion)
+- 
+
+恐惧 Fear
+
+- (收缩Shrink + Emotion)
+- 
+
+紧张 Anxiety
+
+- (长久Long-term + 收缩Shrink + Emotion)
+- 
+
+爱 Love
+
+- (一体One + 私我Private self)
+
+- (無Without/No + 私我Private self)
+
+- 
+
+喜欢  Like
+
+- (Attract + Emotion)
+
+- (Toward oneself + Emotion)
+
+- (Come + Emotion)
+
+- 
+
+讨厌 Dislike (Opposite of like)
+
+- `xi` + Like
+
+- (Repel + Emotion)
 
 - 
 
 憎恨 Hate:
 
-- (Repel + Emotion) = Dislike
+- (Extreme + Dislike)
 
-- (Extreme + Repel + Emotion) = Hate
-
-- 
-
-开心 Happy:
-
-- Expand/Open + Emotion
+- (Extreme + Repel + Emotion)
 
 - 
 
@@ -562,65 +360,17 @@ Neither
 
 伤心 Sad:
 
-1. Down + Emotion
-
---
+- (Down + Emotion)
 
 绝望 Depressed:
 
-1. Bottom + Emotion
-
---
-
-恐惧 Fear
-
-- Shrink + Emotion
-
-- 
-
-紧张 Anxiety:
-
-- 长久+收缩+情绪 Long + Shrink + Emotion
-
-- 
+- (Bottom + Emotion)
 
 尊敬 Respect
 
 - 敬礼+情绪 Salute + Emotion
 
 - 
-
----
-
-颜色 Color:
-
-1. 🔴 Red
-   
-   1. re 
-   
-   2. ro
-   
-   3. hong
-
-2. 🟡 Yellow
-
-3. 🔵 Blue
-
-4. Orange = 🔴+ 🟡
-
-5. Green = 🟡 + 🔵
-
-6. Purple = 🔴 + 🔵
-
-7. ⚫ Black = All + Color
-
-8. Red-brown = ⚫ + 🔴
-
-9. Yellow-brown = ⚫ + 🟡
-
-10. Rainbow = 7 + Color
-
-11. White = All + Rainbow 
 
 ---
 
@@ -645,6 +395,12 @@ Neither
 条状 Tube
 
 面条状 Noodle
+
+---
+
+Texture
+
+Hole
 
 ---
 
@@ -798,27 +554,51 @@ I was eating, when...
 
 金 Gold
 
-水 Water
+水 Liquid #Water
 
-- `hamo` (inspired by H2O = H + am + O)
+- `hzo` (Looks like H2O in chemistry)
+
+- `air`
+
+- `hamo` 
 
 - `ha`
 
-- `ho`
+- `wa`
 
-- `air`
+- `ho`
 
 - `shui`
 
 - 
 
-火 Fire
+冰 #Ice
+
+- (Water + Solid)
+
+- (硬的Hard + Water)
+
+- 
+
+水蒸气 Vapor
+
+- (Water + Gas)
+
+- 
+
+火 #Fire
 
 - `fi`
 
 - `huo`
 
 - `fai`
+
+- 热,高温 High temp
+
+- Bright
+
+- (高Up + 温度Temp + 亮Bright)
 
 - 
 
@@ -828,7 +608,7 @@ I was eating, when...
 
 活物 Living thing 
 
-动物 Animal
+动物 #Animal
 
 - (动Moving + Living)
 
@@ -838,25 +618,38 @@ I was eating, when...
 
 犬科 Canis 
 
-狼 Wolf = Canis
+狼 Wolf
 
-狗 Dog = (Home + Canis)
+- (Wild + Canis)
 
-🐈 猫科 Felid
+狗 Dog 
 
-家猫 Cat = (Home + Felid)
+- (Home + Canis)
 
-老虎
+猫科 Felid
+
+家猫 #Cat 
+
+- (Home + Felid)
+- `miaoyi` (`mi + ao + yi`)
+
+老虎 Tiger
+
+- (花纹Stripped + Felid)
 
 狮子
+
+- (Hairy + Felid)
 
 猎豹
 
 野兽 Beast
 
-🐂 牛 Cow
+- (Wild + Living)
 
-🐎 马 Horse
+牛 Cow
+
+马 Horse
 
 山羊 Goat
 
@@ -864,7 +657,9 @@ I was eating, when...
 
 老鼠 Mouse
 
-猴子 Monkey = similar + human
+猴子 Monkey
+
+- (similar + human)
 
 鸡 Chicken, 鸡肉 
 
@@ -872,7 +667,7 @@ I was eating, when...
 
 ---
 
-植物 Plant
+植物 #Plant
 
 树 Tree
 
@@ -901,6 +696,8 @@ Cabbage
 Broccoli
 
 - (Tree + Vegetable)
+  
+  - Looks like a tree
 
 - 
 
@@ -921,19 +718,42 @@ Broccoli
 - 
 
 面包 Bread
+
 披萨 Pizza
+
 蛋糕 Cake
-蔬菜 Vegetable
+
 玉蜀黍 Corn
-水果 Fruit
+
+水果 #Fruit
+
 苹果 Apple
+
+- (Red + Fruit)
+
 橙子 Orange/ Citrus
+
 米饭 Rice
+
 意大利面 Spaghetti
+
+- (面条状 + Food)
 
 ---
 
-动作  Verb/Action:
+动词 #Verb
+
+动作 #Action
+
+是 Am/Is/Are/Was/Were
+
+- `ya`
+
+- `ia`
+
+- `bi`
+
+- `be`
 
 移动 Move:
 
@@ -941,19 +761,29 @@ Broccoli
 
 ---
 
-金融 Finance:
+金融 Finance
 
 钱,货币 Money, Currency
 
-1. 价钱 Price, Buy 
+- `dui`
 
-2. 起价 Price goes up
+- `koi`
 
-3. 便宜点 Cheaper please
+- `mani`
 
-4. 汽油 Gas (Fuel)
+- 
 
-5. Bank
+价钱 Price
+
+买卖 Buy & Sell 
+
+起价 Price goes up
+
+便宜点 Cheaper please
+
+汽油 Gas (Fuel)
+
+银行 Bank
 
 ---
 
@@ -967,7 +797,7 @@ Broccoli
 
 互联网 internet:
 
-- `internei`
+- `internei`(`in + ter + ne + i`) = (Mutual + Connect + Net)
 
 洗衣机 Washing machine
 
@@ -1106,14 +936,37 @@ father + Sibling + Children
 
 ---
 
-疑问 Enquiries:
-What
-Who
-Where
-When
-How
+疑问 Enquiries
 
-插話 Interjection:
+- `va`
+
+- `at`
+
+- `wat`
+
+- `xha`
+
+- `apa`
+
+- 
+
+What, what thing?
+
+Who, what person?
+
+Where, what place?
+
+When, what time?
+
+How, what happened?
+
+How, what action?
+
+多少钱 How much, what amount?
+
+Why, what cause?
+
+插話 Interjection
 Hi
 早安 Good morning etc
 Namaste 
@@ -1193,30 +1046,11 @@ Namaste
 发现 Expose
 手枪 Gun (sadly nowaday we have to teach student how to protect themselves from guns)
 
-爱 Love
-尊敬 Respect
-
 ---
 
-说话 Speak
+心理学 Psychology
 
-- (Sound + Mouth)
-
-- (Mouth + Sound)
-
-- xpi ?
-
-- 
-
-说谎 Lie (non-truth)
-
-- (Sound + Mouth)
-
-- (Fake + Mouth)
-
-- (Mouth + Sound)
-
-- 
+哲学 Philosophy
 
 真相 Truth
 
@@ -1225,8 +1059,6 @@ Namaste
 思考 Think
 
 念头 Thought
-
-心理学 Psychology
 
 功课 Homework
 
@@ -1347,3 +1179,5 @@ Hypothesis
 All 
 
 Everything
+
+---
